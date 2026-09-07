@@ -1,0 +1,1270 @@
+{
+  "generated_at": "2026-09-07T09:36:09.360440+09:00",
+  "papers": [
+    {
+      "id": "donga",
+      "name": "동아일보",
+      "date": "2026-09-05",
+      "status": "자동 수집 완료",
+      "source": "https://www.donga.com/news/Pdf?ymd=20260905",
+      "pages": [
+        {
+          "key": "A1",
+          "label": "A1",
+          "edition": "A",
+          "number": 1,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "김승원 “식약처 승인땐 수천억”… 청탁의혹 증폭",
+              "url": "https://www.donga.com/news/article/all/20260904/134609723/2",
+              "summary": ""
+            },
+            {
+              "title": "네팔 홍수 ‘9일만의 기적’… 발전소 터널서 2명 구조",
+              "url": "https://www.donga.com/news/article/all/20260904/134609721/2",
+              "summary": ""
+            },
+            {
+              "title": "방 내준 어르신, 말벗 된 대학생… 남과 사는 ‘60만 식구’",
+              "url": "https://www.donga.com/news/article/all/20260904/134608635/2",
+              "summary": ""
+            },
+            {
+              "title": "공공기관 통폐합 후폭풍… 기관장-임원 ‘물갈이 긴장’",
+              "url": "https://www.donga.com/news/article/all/20260904/134609719/2",
+              "summary": ""
+            },
+            {
+              "title": "“韓, 日 추월해 2060년 세계 최고령국… 10명중 4명이 65세 이상”",
+              "url": "https://www.donga.com/news/article/all/20260904/134609953/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A2",
+          "label": "A2",
+          "edition": "A",
+          "number": 2,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“韓, 日 추월해 2060년 세계 최고령국… 10명중 4명이 65세 이상”",
+              "url": "https://www.donga.com/news/article/all/20260904/134609953/2",
+              "summary": ""
+            },
+            {
+              "title": "네팔 홍수 ‘9일만의 기적’… 발전소 터널서 2명 구조",
+              "url": "https://www.donga.com/news/article/all/20260904/134609721/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A3",
+          "label": "A3",
+          "edition": "A",
+          "number": 3,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "‘단순 민원’이라던 김승원, 지인에 “메일로 신약자료 보내달라”",
+              "url": "https://www.donga.com/news/article/all/20260904/134609955/2",
+              "summary": ""
+            },
+            {
+              "title": "[단독]용혜인, 이번엔 ‘꼼수 절세’?… 본인이 만든 당에 1.9억 내고 3600만원 稅 감면",
+              "url": "https://www.donga.com/news/article/all/20260904/134609958/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A4",
+          "label": "A4",
+          "edition": "A",
+          "number": 4,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "李지지율 40% 취임후 최저… 민주 38%-국힘 30% 격차 줄어",
+              "url": "https://www.donga.com/news/article/all/20260904/134609694/2",
+              "summary": ""
+            },
+            {
+              "title": "빚투 말라는 정부, 10억아파트 5.3억 영끌한 국토 후보자",
+              "url": "https://www.donga.com/news/article/all/20260904/134609689/2",
+              "summary": ""
+            },
+            {
+              "title": "[단독]김성수, 15세 성폭행범 ‘합의금 공탁’ 이유로 2심서 감형",
+              "url": "https://www.donga.com/news/article/all/20260904/134609687/2",
+              "summary": ""
+            },
+            {
+              "title": "시민단체 만난 李 “사회 대개혁에 몫 매우 커”",
+              "url": "https://www.donga.com/news/article/all/20260904/134609692/2",
+              "summary": ""
+            },
+            {
+              "title": "국힘, 레버리지 ETF 국조 요구서 제출",
+              "url": "https://www.donga.com/news/article/all/20260904/134609691/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A5",
+          "label": "A5",
+          "edition": "A",
+          "number": 5,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“北과 대화 원하는 트럼프, 12월 마이애미 G20에 김정은 부를수도”",
+              "url": "https://www.donga.com/news/article/all/20260904/134609708/2",
+              "summary": ""
+            },
+            {
+              "title": "靑, 호르무즈 파병에 “대비태세 손상없게 검토”… 李 “어렵다”",
+              "url": "https://www.donga.com/news/article/all/20260904/134609704/2",
+              "summary": ""
+            },
+            {
+              "title": "신사 참배 日방위상, 7~9일 서울안보대화 불참",
+              "url": "https://www.donga.com/news/article/all/20260904/134609706/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A6",
+          "label": "A6",
+          "edition": "A",
+          "number": 6,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "306개 공공기관장 중 74%가 尹정부 인사… 대거 교체 가능성",
+              "url": "https://www.donga.com/news/article/all/20260904/134609965/2",
+              "summary": ""
+            },
+            {
+              "title": "“국책銀 이전땐 경쟁력 약화” 금융노조 총파업",
+              "url": "https://www.donga.com/news/article/all/20260904/134609962/2",
+              "summary": ""
+            },
+            {
+              "title": "코스피-코스닥 ‘상장폐지 시총 기준 강화’ 6개월 늦춘다",
+              "url": "https://www.donga.com/news/article/all/20260904/134609960/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A8",
+          "label": "A8",
+          "edition": "A",
+          "number": 8,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "공소청에 불송치 전담 ‘사법통제부’ 둔다",
+              "url": "https://www.donga.com/news/article/all/20260904/134609976/2",
+              "summary": ""
+            },
+            {
+              "title": "음원-그림처럼, 주식-채권도 ‘조각 투자’ 허용",
+              "url": "https://www.donga.com/news/article/all/20260904/134609974/2",
+              "summary": ""
+            },
+            {
+              "title": "오늘 여의도서 불꽃축제… 마포대교 남단~63빌딩 전면통제",
+              "url": "https://www.donga.com/news/article/all/20260904/134609969/2",
+              "summary": ""
+            },
+            {
+              "title": "태풍 영향 제주항 크레인 쓰러져 1명 사망",
+              "url": "https://www.donga.com/news/article/all/20260904/134609770/2",
+              "summary": ""
+            },
+            {
+              "title": "공수처, ‘술접대 의혹’ 지귀연 판사 기소… 뇌물죄는 빠져",
+              "url": "https://www.donga.com/news/article/all/20260904/134609771/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A10",
+          "label": "A10",
+          "edition": "A",
+          "number": 10,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "방 내준 어르신, 말벗 된 대학생… 남과 사는 ‘60만 식구’",
+              "url": "https://www.donga.com/news/article/all/20260904/134608635/2",
+              "summary": ""
+            },
+            {
+              "title": "“같이 살아도 응급실 가면 보호자 못해”… 친구 입양하기도",
+              "url": "https://www.donga.com/news/article/all/20260904/134608630/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A12",
+          "label": "A12",
+          "edition": "A",
+          "number": 12,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“엄마와 마지막 金, 이젠 당신 삶 살길”… “예진이는 악바리, 혼자도 훨훨 날 것”",
+              "url": "https://www.donga.com/news/article/all/20260905/134610299/1",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A14",
+          "label": "A14",
+          "edition": "A",
+          "number": 14,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“오타니 보고있나” 8월에만 14홈런… MVP 향해 질주",
+              "url": "https://www.donga.com/news/article/all/20260905/134609643/2",
+              "summary": ""
+            },
+            {
+              "title": "“한국축구 위해 헌신 경기장서 증명할 것”",
+              "url": "https://www.donga.com/news/article/all/20260905/134609638/2",
+              "summary": ""
+            },
+            {
+              "title": "“인삼즙 먹고 키운 힘으로 아시아 번쩍 들게요”",
+              "url": "https://www.donga.com/news/article/all/20260905/134609636/2",
+              "summary": ""
+            },
+            {
+              "title": "‘테니스 엔터테이너’ 몽피스, 메이저 무대와 작별",
+              "url": "https://www.donga.com/news/article/all/20260905/134609640/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A16",
+          "label": "A16",
+          "edition": "A",
+          "number": 16,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[책의 향기]운동장을 기울이는 큰손들",
+              "url": "https://www.donga.com/news/article/all/20260904/134608746/2",
+              "summary": ""
+            },
+            {
+              "title": "[그림책 한조각]고구마랑",
+              "url": "https://www.donga.com/news/article/all/20260904/134608740/2",
+              "summary": ""
+            },
+            {
+              "title": "거대 권력 파헤치는 변호사-형사 콤비[정보라의 이 책 환상적이야]",
+              "url": "https://www.donga.com/news/article/all/20260904/134608742/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]게으른 빈곤 뒤에 ‘쇠약한 뇌’ 있다",
+              "url": "https://www.donga.com/news/article/all/20260904/134608738/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]퓰리처상 수상 기자의 ‘동사 예찬론’",
+              "url": "https://www.donga.com/news/article/all/20260904/134608734/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A17",
+          "label": "A17",
+          "edition": "A",
+          "number": 17,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[책의 향기/밑줄 긋기]여름을 건너",
+              "url": "https://www.donga.com/news/article/all/20260904/134608729/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]우리는 잊기 위해 메모를 쓴다",
+              "url": "https://www.donga.com/news/article/all/20260904/134608662/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]‘마상’ 입은 40만 명 보듬었다, 할머니들의 벤치 대화",
+              "url": "https://www.donga.com/news/article/all/20260904/134608707/2",
+              "summary": ""
+            },
+            {
+              "title": "[어린이 책]고양이의 바다 여행, 오늘은 성공할까?",
+              "url": "https://www.donga.com/news/article/all/20260904/134608660/2",
+              "summary": ""
+            },
+            {
+              "title": "[새로 나왔어요]영화 속 조직 이야기 外",
+              "url": "https://www.donga.com/news/article/all/20260904/134608725/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]金에 밀리기 전, 銀이 세계의 돈이었다",
+              "url": "https://www.donga.com/news/article/all/20260904/134608713/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A19",
+          "label": "A19",
+          "edition": "A",
+          "number": 19,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "한 숟가락에 50만원 바이오잉크, 미역으로 국산화하는 98년생[허진석의 톡톡 스타트업]",
+              "url": "https://www.donga.com/news/article/all/20260905/134608875/2",
+              "summary": ""
+            },
+            {
+              "title": "[오늘의 운세/9월 5일]",
+              "url": "https://www.donga.com/news/article/all/20260905/134608903/2",
+              "summary": ""
+            },
+            {
+              "title": "[오늘의 운세/9월 6일]",
+              "url": "https://www.donga.com/news/article/all/20260905/134608935/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A21",
+          "label": "A21",
+          "edition": "A",
+          "number": 21,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[오늘의 채널A]외화벌이 北 IT 노동자 실태 조명",
+              "url": "https://www.donga.com/news/article/all/20260905/134609207/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A22",
+          "label": "A22",
+          "edition": "A",
+          "number": 22,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "은퇴 직후 소득절벽 3년 “강단 문 열릴 때까지 두드렸다”[은퇴 레시피]",
+              "url": "https://www.donga.com/news/article/all/20260905/134609017/2",
+              "summary": ""
+            },
+            {
+              "title": "[지표로 보는 경제]9월 5일",
+              "url": "https://www.donga.com/news/article/all/20260904/134608983/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A24",
+          "label": "A24",
+          "edition": "A",
+          "number": 24,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "강과 강이 만나 바다를 이루는 곳… 조강의 노을[전승훈 기자의 아트로드]",
+              "url": "https://www.donga.com/news/article/all/20260905/134608940/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A25",
+          "label": "A25",
+          "edition": "A",
+          "number": 25,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "한반도 첫 보성 ‘공룡뼈 화석’ 천연기념물 됐다",
+              "url": "https://www.donga.com/news/article/all/20260904/134609804/2",
+              "summary": ""
+            },
+            {
+              "title": "정용진, 美 ‘파운드리 스쿨’ 출범식 참석",
+              "url": "https://www.donga.com/news/article/all/20260904/134609796/2",
+              "summary": ""
+            },
+            {
+              "title": "오픈AI, ‘GPT-6 아스트라’ 공개 “AGI 시대”",
+              "url": "https://www.donga.com/news/article/all/20260904/134609801/2",
+              "summary": ""
+            },
+            {
+              "title": "[인사]공관장 外",
+              "url": "https://www.donga.com/news/article/all/20260904/134609793/2",
+              "summary": ""
+            },
+            {
+              "title": "‘농심 3세’ 신상열 부사장 SKT 직원과 13일 결혼",
+              "url": "https://www.donga.com/news/article/all/20260904/134609799/2",
+              "summary": ""
+            },
+            {
+              "title": "[부고]권환기 별세 外",
+              "url": "https://www.donga.com/news/article/all/20260904/134609806/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A26",
+          "label": "A26",
+          "edition": "A",
+          "number": 26,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[광화문에서/조권형]진영 결속 과제 안은 김민석… 정치력 시험대 서다",
+              "url": "https://www.donga.com/news/article/all/20260904/134609742/2",
+              "summary": ""
+            },
+            {
+              "title": "[동아광장/정소연]가정폭력 피해자에게 ‘보호 책임’ 떠넘겨선 안 된다",
+              "url": "https://www.donga.com/news/article/all/20260904/134609740/2",
+              "summary": ""
+            },
+            {
+              "title": "[횡설수설/김준일]꼼수 정당과 용혜인",
+              "url": "https://www.donga.com/news/article/all/20260904/134609738/2",
+              "summary": ""
+            },
+            {
+              "title": "[고양이 눈]“어흥!”",
+              "url": "https://www.donga.com/news/article/all/20260904/134609737/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A27",
+          "label": "A27",
+          "edition": "A",
+          "number": 27,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[오늘과 내일/유재영]히말라야의 눈물이 보낸 20년의 경고",
+              "url": "https://www.donga.com/news/article/all/20260904/134609671/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]김승원 꼬리 무는 의혹… 말끔히 해소 못 하면 물러나라",
+              "url": "https://www.donga.com/news/article/all/20260904/134609665/2",
+              "summary": ""
+            },
+            {
+              "title": "나비[박연준의 토요일은 시가 좋아]〈58〉",
+              "url": "https://www.donga.com/news/article/all/20260904/134609663/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]반도체 관세 압박… ‘美 기업도 손해’ 설득의 기술 발휘할 때",
+              "url": "https://www.donga.com/news/article/all/20260904/134609669/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]“2060년 韓 최고령국”… 반세기 전 만든 시스템 확 뜯어고쳐야",
+              "url": "https://www.donga.com/news/article/all/20260904/134609667/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A28",
+          "label": "A28",
+          "edition": "A",
+          "number": 28,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "동아일보 발행정보",
+              "url": "https://www.donga.com/news/Pdf?mode=2",
+              "summary": ""
+            }
+          ]
+        }
+      ],
+      "message": ""
+    },
+    {
+      "id": "mk",
+      "name": "매일경제",
+      "date": "2026-09-05",
+      "status": "자동 수집 완료",
+      "source": "https://www.mk.co.kr/today-paper/?date=20260905&section=A",
+      "pages": [
+        {
+          "key": "A1",
+          "label": "1면",
+          "edition": "A",
+          "number": 1,
+          "section": "\"한미간 논의 대상인 건 사실\" 파병 방식은 아직 결정 안돼",
+          "articles": [
+            {
+              "title": "홀로 지갑 닫는 … 팍팍한 20代 공준호,박창영 기자 KB카드 자료 분석 全연령대 유일하게 카드 지출액 감소 커피·술도 사치 현장 결제 8% '뚝' 신입채용 계속 줄어 소비위축 가속 우려",
+              "url": "https://www.mk.co.kr/news/economy/12144751",
+              "summary": ""
+            },
+            {
+              "title": "칩플레이션 '역발상' 삼성 저가폰 늘린다 박소라,박성배 기자 \"갤A 하반기 3400만대 생산\" 점유율 승부로 세계 1위 수성 보급형·프리미엄 '양동 작전'",
+              "url": "https://www.mk.co.kr/news/business/12144747",
+              "summary": ""
+            },
+            {
+              "title": "靑, 반도체 대미투자 논의 공식화 … 호르무즈엔 파병 가능성 오수현 기자 \"한미간 논의 대상인 건 사실\" 파병 방식은 아직 결정 안돼",
+              "url": "https://www.mk.co.kr/news/world/12144749",
+              "summary": ""
+            },
+            {
+              "title": "'코스닥 퇴출강화' 6개월 유예… 흑자기업은 코넥스 이전 허용 문가영,김정석 기자 정부, 상장사 반발에 '속도조절' 시총기준 상향 내년 7월로 연기",
+              "url": "https://www.mk.co.kr/news/stock/12144748",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A2",
+          "label": "2면",
+          "edition": "A",
+          "number": 2,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "韓요리법 뜬다 … 美 미쉐린 셰프도 한과 배우러 방한 서동철,박윤균 기자 K푸드 넘어 K쿠킹도 인기 뉴욕 등 스타셰프 4명 한국행 전통 디저트 직접 만들어보는 신세계百 '병과 클래스' 참여 새 레시피 영감 얻는 기회로 식품기업들 한우·김치 조리 등 외국인 대상 쿠킹클래스 확대",
+              "url": "https://www.mk.co.kr/news/business/12144715",
+              "summary": ""
+            },
+            {
+              "title": "운전대·페달 없는 테슬라 로보택시 … 양산형 모델 본격 투입 김태성 기자 美텍사스서 '사이버캡' 공개 금빛 날개처럼 위로 문 열려 구글·아마존과 경쟁 격화",
+              "url": "https://www.mk.co.kr/news/business/12144714",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A3",
+          "label": "3면",
+          "edition": "A",
+          "number": 3,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "시총기준 미달땐 여전히 퇴출대상 …코스닥社 \"실적도 고려해야\" 문가영,김정석 기자 코스닥 퇴출 유예 업계 반응 투자자금 끌어다 주가방어 본업 경쟁력 오히려 훼손 \"주가조작 기업만 되레 혜택\" 코넥스 하루 거래액 3억 그쳐 \"이전상장은 유배 가라는 것\" 코스닥 재상장 구제책 필요",
+              "url": "https://www.mk.co.kr/news/stock/12144769",
+              "summary": ""
+            },
+            {
+              "title": "\"코스닥 활기 찾으려면 … 진입문턱 낮추고 퇴출기준 정밀화를\" 양세호,서정원 기자 중기중앙회·중기학회 '모두가 찾는 코스닥' 포럼 관리종목 30%는 '흑자기업' 퇴출때 성장성 등 고려해야 30조 규모 활성화펀드 제안도",
+              "url": "https://www.mk.co.kr/news/stock/12144770",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A4",
+          "label": "4면",
+          "edition": "A",
+          "number": 4,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "삼성 \"시장재편 최적기\"… 애플·中기업 주춤때 저가폰 쏟아내 박소라,박성배 기자 삼성전자의 역발상 … 보급형 갤럭시A 생산물량 확대 메모리값 급등에도 부담 감수 초저가폰 A17·A18 집중생산 프리미엄폰은 라인업 다양화 보급폰 시장선 물량공세 전략 中업체 출하량은 대폭 감소",
+              "url": "https://www.mk.co.kr/news/business/12144766",
+              "summary": ""
+            },
+            {
+              "title": "\"AGI 시대에 오신 것을 환영합니다\"… 오픈AI 새 모델, 코딩능력서 클로드 능가 강영운 기자 오픈AI 'GPT-6 아스트라' \"세대교체 수준의 대약진\" 오용 대비 감시기능 도입 'AGI 도달'엔 의견 엇갈려",
+              "url": "https://www.mk.co.kr/news/business/12144767",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A5",
+          "label": "5면",
+          "edition": "A",
+          "number": 5,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "호프·카페 안가고 집에서 넷플릭스만…20대 소비시장 이탈 박창영,공준호 기자 달라진 20대 소비 방정식 \"탄산도 안마시고 물만 홀짝\" 대학가 자영업매출 지속 하락 한끼 해결 편의점도 덜 찾아 20대 비중 5년새 6%P '뚝' 쉬었음 청년 숫자 171만명 소비 위축 장기화 가능성 커",
+              "url": "https://www.mk.co.kr/news/business/12144763",
+              "summary": ""
+            },
+            {
+              "title": "\"고물가·취업난에 친구 만나기도 부담\"…20대 덮친 '프렌드플레이션' 공준호,박창영 기자 지갑 닫는 청년들 현주소 \"친구만남 지출 줄였다\" 71% \"모임횟수 자체를 축소\" 84%",
+              "url": "https://www.mk.co.kr/news/economy/12144764",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A6",
+          "label": "6면",
+          "edition": "A",
+          "number": 6,
+          "section": "\"美중간선거 이후 만날듯\"",
+          "articles": [
+            {
+              "title": "\"한반도 안보상황 고려\"… 靑, 호르무즈 지원전력 파병 검토 오수현,김성훈 기자 22년만에 해외 파병 가능성 트럼프 '도움안준 韓' 압박에 靑 \"해협 안정에 실질적 기여\" 군수지원함·초계기 지원촉각 파병동의안 초안 작성 착수 여권서도 \"파병 안돼\" 목소리",
+              "url": "https://www.mk.co.kr/news/world/12144810",
+              "summary": ""
+            },
+            {
+              "title": "\"메가특구 규제혁신·노동보호…사회적대타협 할것\" 류영욱 기자 당정, 메가특구법 연내 입법 규제특례·에너지·기업지원 주52시간 예외 등 협의 방침 金 \"충남까지 GTX연장검토\"",
+              "url": "https://www.mk.co.kr/news/politics/12144812",
+              "summary": ""
+            },
+            {
+              "title": "野, 김승원 기소유예 처분에… \"檢, 당초 징역 구형하려했다\" 최희석,김민소,신지윤 기자 金 '신약 로비' 의혹 확산 한동훈, 수사보고서 공개 金, 과거 음주운전엔 사과 용혜인은 특혜 논란 지속 정책정당 내세웠던 소득당 5년간 정책개발비 집행 0원",
+              "url": "https://www.mk.co.kr/news/society/12144815",
+              "summary": ""
+            },
+            {
+              "title": "세제 손질·중폭개각에도 … 李지지율 40%로 또 하락 성승훈 기자 갤럽 조사 \"취임 후 최저치\" 서울 38%…20대는 25%그쳐 李, 6~9일 프랑스 국빈방문",
+              "url": "https://www.mk.co.kr/news/politics/12144811",
+              "summary": ""
+            },
+            {
+              "title": "브룩스 前 사령관 \"미북회담 이르면 11월 가능성\" 최승진 기자 \"美중간선거 이후 만날듯\"",
+              "url": "https://www.mk.co.kr/news/world/12144813",
+              "summary": ""
+            },
+            {
+              "title": "野 '레버리지ETF' 국조 요구서 제출 신지윤 기자",
+              "url": "https://www.mk.co.kr/news/politics/12144814",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A8",
+          "label": "8면",
+          "edition": "A",
+          "number": 8,
+          "section": "\"인종기반 불평등 더는 안돼\" 대학 등 1만8천곳 직접 영향",
+          "articles": [
+            {
+              "title": "발전소 터널서 2명 극적 구조 … 한국인 생환 희망 '불씨' 이수민,김성훈 기자 네팔 대홍수 9일만에 기적 한국인 실종된 곳서 6km 거리 거동 어렵지만 생명 지장 없어 韓구조대, 지상·공중 집중수색",
+              "url": "https://www.mk.co.kr/news/world/12144720",
+              "summary": ""
+            },
+            {
+              "title": "美고용 깜짝증가 … 금리전망은 엇갈려 임성현 기자 8월 美일자리 16.2만개 증가 8월 고용 예상보다 3배 늘어 인플레 추세 놓고는 해석 분분 월러 \"물가 둔화\" 워시 \"아직\" 9월 금리인상·동결 확률 반반 8월 소비자물가 결과가 관건",
+              "url": "https://www.mk.co.kr/news/world/12144931",
+              "summary": ""
+            },
+            {
+              "title": "中에 밀리고 美관세에 치여 … 폭스바겐, 5만명 더 자른다 김제관 기자 수익성 악화에 구조조정 확정 기존 5만명 이어 추가감축 결정 차량모델도 절반으로 단종키로",
+              "url": "https://www.mk.co.kr/news/world/12144719",
+              "summary": ""
+            },
+            {
+              "title": "소수인종 배려학교 때린 트럼프 … 법인세 면제 등 혜택 박탈 추진 김유신 기자 \"인종기반 불평등 더는 안돼\" 대학 등 1만8천곳 직접 영향",
+              "url": "https://www.mk.co.kr/news/world/12144721",
+              "summary": ""
+            },
+            {
+              "title": "물가 상승에 지갑 닫는 日 … 8개월연속 소비지출 감소 이유섭 기자",
+              "url": "https://www.mk.co.kr/news/world/12144722",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A9",
+          "label": "9면",
+          "edition": "A",
+          "number": 9,
+          "section": "작년 36억弗 … 3년새 15%↑ 태국·베트남 비중 절반 넘어",
+          "articles": [
+            {
+              "title": "靑 \"미국 반도체 투자는 대미펀드와 별개\" 신유경,오수현,최승진 기자 韓美 반도체 투자 논의 공식화 美 \"관세 피하려면 투자해야\" 펀드이용해 민간투자 하려면 靑 \"한미 MOU 개정할 사항\" 산업부, 대미투자 1호 곧 발표",
+              "url": "https://www.mk.co.kr/news/economy/12144797",
+              "summary": ""
+            },
+            {
+              "title": "\"지방이전 반대\" 거리로 나온 3만 금융노조 이희수 기자 광화문서 총파업 집회 \"금융경쟁력 악화 불보듯\" 2030 젊은 직원 대거 참여 금감원, 靑에 탄원서 제출",
+              "url": "https://www.mk.co.kr/news/economy/12144802",
+              "summary": ""
+            },
+            {
+              "title": "'한국발전' 내년 10월 출범… 발전설비 53GW 세계 8위 신유경,나현준 기자 발전공기업 4본부 체제로 본사 1800명·지역 600명 全 공기업 고용 유지하되 임원은 대상에서 제외키로",
+              "url": "https://www.mk.co.kr/news/economy/12144798",
+              "summary": ""
+            },
+            {
+              "title": "110만 외국인 근로자…고향으로 5조 보냈다 김정범 기자 작년 36억弗 … 3년새 15%↑ 태국·베트남 비중 절반 넘어",
+              "url": "https://www.mk.co.kr/news/economy/12144799",
+              "summary": ""
+            },
+            {
+              "title": "우리銀 \"베트남에 역량 집중\"… 점포 늘리고 전용 앱도 개발 이희수 기자",
+              "url": "https://www.mk.co.kr/news/economy/12144803",
+              "summary": ""
+            },
+            {
+              "title": "7월 경상수지 421억弗… 韓銀 \"中이어 세계 2위\" 김정범 기자",
+              "url": "https://www.mk.co.kr/news/economy/12144800",
+              "summary": ""
+            },
+            {
+              "title": "[포토] 금융위·강원도·신한銀, 취약계층 지원 맞손",
+              "url": "https://www.mk.co.kr/news/economy/12144804",
+              "summary": ""
+            },
+            {
+              "title": "신한라이프, 피싱 차단 강화…고도화된 예방 시스템 도입 박인혜 기자",
+              "url": "https://www.mk.co.kr/news/economy/12144801",
+              "summary": ""
+            },
+            {
+              "title": "[표] 외국환율고시표",
+              "url": "https://www.mk.co.kr/news/economy/12144805",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A10",
+          "label": "10면",
+          "edition": "A",
+          "number": 10,
+          "section": "H&L어드밴스드 본격 사업 고부가 스페셜티 소재 확대",
+          "articles": [
+            {
+              "title": "AI로 뭉쳤다, 가전·車·로봇 초연결 생태계 박민기 기자 산업 융합의 미래 보여준 IFA 中 전시관 928곳, 절반 차지 샤오미 로봇·전기차 전면에 '테크공룡' 엔비디아도 출격 온디바이스 AI 생태계 확장",
+              "url": "https://www.mk.co.kr/news/business/12144771",
+              "summary": ""
+            },
+            {
+              "title": "병원 예약부터 공공기관 서류 신청까지 AI가 척척 고민서 기자 '모두의 AI' 3사 3색 서비스 쇼핑 AI가 제품 비교·추천 사회보장급여 대리 신청도",
+              "url": "https://www.mk.co.kr/news/business/12144773",
+              "summary": ""
+            },
+            {
+              "title": "HD현대·롯데 합병 법인…'석화 구조조정' 1호 출범 이진한 기자 H&L어드밴스드 본격 사업 고부가 스페셜티 소재 확대",
+              "url": "https://www.mk.co.kr/news/business/12144772",
+              "summary": ""
+            },
+            {
+              "title": "[포토] \"AI 리더십 공부하자\" 2기 과정 개강 김호영 기자",
+              "url": "https://www.mk.co.kr/news/society/12144779",
+              "summary": ""
+            },
+            {
+              "title": "네이버 유료 회원만 새벽배송 박윤예 기자 11월부터 멤버십혜택 전환",
+              "url": "https://www.mk.co.kr/news/business/12144775",
+              "summary": ""
+            },
+            {
+              "title": "일본항공, 한진칼 지분 샀다 … 대한항공과 협업 정지성 기자 양사 공동운항 주 400편으로",
+              "url": "https://www.mk.co.kr/news/business/12144852",
+              "summary": ""
+            },
+            {
+              "title": "한화 '천무' 크로아티아 수출 박승주 기자 6800억원 규모 계약 앞둬",
+              "url": "https://www.mk.co.kr/news/business/12144778",
+              "summary": ""
+            },
+            {
+              "title": "[포토] 네이버·브룩필드 12조원 'AI 팩토리' 동맹",
+              "url": "https://www.mk.co.kr/news/business/12144774",
+              "summary": ""
+            },
+            {
+              "title": "SK렌터카 법인차량 분석…기업 맞춤형 서비스 제공 추동훈 기자",
+              "url": "https://www.mk.co.kr/news/business/12144776",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A11",
+          "label": "11면",
+          "edition": "A",
+          "number": 11,
+          "section": "[포토] 한국거래소·뉴욕증권거래소 시장 운영 '맞손'",
+          "articles": [
+            {
+              "title": "美 금리동결 기대 타고…가상자산株 들썩 안병준 기자 연준 긴축 부담 완화되자 비트코인 3개월 만에 최고 스트레티지 주가 18% 급등 로빈후드·코인베이스도 뛰어 金, 2.8% 오르며 동반 강세",
+              "url": "https://www.mk.co.kr/news/stock/12144755",
+              "summary": ""
+            },
+            {
+              "title": "주식·채권·펀드도 토큰화 … 내년 2월부터 단계적 허용 안갑성 기자 금융위 토큰증권 로드맵 공개 사모 MMF·채권부터 시작 일반투자 공모증권까지 확대",
+              "url": "https://www.mk.co.kr/news/stock/12144758",
+              "summary": ""
+            },
+            {
+              "title": "국민연금에 맡기면 수익률 쑥? … \"퇴직연금은 달라\" 김제림 기자 자본시장연구원 보고서 기금형 제도 참여 논의 두고 \"운용 목적·위험수준에 차이\"",
+              "url": "https://www.mk.co.kr/news/stock/12144756",
+              "summary": ""
+            },
+            {
+              "title": "[포토] 한국거래소·뉴욕증권거래소 시장 운영 '맞손'",
+              "url": "https://www.mk.co.kr/news/stock/12144757",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A13",
+          "label": "13면",
+          "edition": "A",
+          "number": 13,
+          "section": "공수처, 청탁금지법 위반 혐의",
+          "articles": [
+            {
+              "title": "첫 중수청장 후보 4명 압축 … 정치색 짙은 판검사 출신 논란 이승윤,정석환 기자 행안부장관, 최종 1인 제청 김건희·내란특검 특검보 포함 정치적 중립성 우려 나오기도 \"행안부와 긴장관계 유지하며 정부 하명수사 우려 불식해야\"",
+              "url": "https://www.mk.co.kr/news/society/12144871",
+              "summary": ""
+            },
+            {
+              "title": "\"車 두고 나오세요\" 불꽃축제·마라톤에 서울 주말 혼잡 문소정 기자 5일 여의도·6일 종로 주요 도로 교통 통제 불법 주정차 견인 등 경찰, 강력단속 예정",
+              "url": "https://www.mk.co.kr/news/society/12144790",
+              "summary": ""
+            },
+            {
+              "title": "檢 인지수사 기능 완전 폐지… 警 견제할 '사법통제부' 신설 김민소,성채윤 기자 법무부 '공소청 직제안' 공개 인지·합동수사부서 43개 폐지 중대범죄전담부 29개 만들어 위법수사 확인땐 재수사 요구",
+              "url": "https://www.mk.co.kr/news/society/12144783",
+              "summary": ""
+            },
+            {
+              "title": "통합 수능 전 마지막 입시… 치열해진 '수시 눈치싸움' 이용익 기자 7일부터 대입 수시접수 시작 N수생 늘고 지역의사제 도입 지방대 지원 정책도 변수로",
+              "url": "https://www.mk.co.kr/news/society/12144788",
+              "summary": ""
+            },
+            {
+              "title": "'409만원 술자리' 지귀연 불구속기소 성채윤 기자 공수처, 청탁금지법 위반 혐의",
+              "url": "https://www.mk.co.kr/news/society/12144787",
+              "summary": ""
+            },
+            {
+              "title": "삼성 '노조 블랙리스트' 의혹… 초기업노조 위원장 檢 송치 이대현 기자",
+              "url": "https://www.mk.co.kr/news/society/12144872",
+              "summary": ""
+            },
+            {
+              "title": "\"연애 폭로돼 직장 잃을까봐\"… '中유학생 살해' 정창성 송치 우성덕 기자",
+              "url": "https://www.mk.co.kr/news/society/12144785",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A14",
+          "label": "14면",
+          "edition": "A",
+          "number": 14,
+          "section": "[표] 베스트셀러",
+          "articles": [
+            {
+              "title": "10년의 집필… 다시 만나는 노무현 김유태 기자 이라크 파병·대연정 제안… 숱한 흔들림과 망설임 속에도 盧, 원칙 지키려 '손해' 감내 600권 수첩·녹취·비망록 집약 20년 넘게 '盧의 모든 것' 기록 2009년 5월23일 '마지막 그날' 짧은 서술이 오히려 길게 읽혀",
+              "url": "https://www.mk.co.kr/news/culture/12144568",
+              "summary": ""
+            },
+            {
+              "title": "오프라인 매장은 물건이 아닌 머물 이유를 판다 김대은 기자",
+              "url": "https://www.mk.co.kr/news/culture/12144567",
+              "summary": ""
+            },
+            {
+              "title": "'세계인의 공놀이' 축구는 왜 자본의 스포츠가 됐나 구정근 기자",
+              "url": "https://www.mk.co.kr/news/culture/12144569",
+              "summary": ""
+            },
+            {
+              "title": "은을 따라가니 세계사가 보인다 정유정 기자",
+              "url": "https://www.mk.co.kr/news/culture/12144570",
+              "summary": ""
+            },
+            {
+              "title": "[표] 베스트셀러",
+              "url": "https://www.mk.co.kr/news/culture/12144566",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A15",
+          "label": "15면",
+          "edition": "A",
+          "number": 15,
+          "section": "거룩한 성서까지도 비틀어 봤던 철학자의 책",
+          "articles": [
+            {
+              "title": "'5천년 숙적' 암과의 전쟁은 끝나지 않았다 최현재 기자 게티이미지뱅크 고대 파피루스에도 암 기록돼 치료법 연구하며 의술도 발전 암 역사 파헤쳐 퓰리처상 수상 최신 연구 성과 반영해 재출간 표적치료 등 극복 가능성 분석",
+              "url": "https://www.mk.co.kr/news/culture/12144622",
+              "summary": ""
+            },
+            {
+              "title": "신간 다이제스트 김유태 기자",
+              "url": "https://www.mk.co.kr/news/culture/12144624",
+              "summary": ""
+            },
+            {
+              "title": "[김유태 기자의 책에 대한 책] \"창세기에는 인간 최초의 폭력이 기록돼 있다\" 김유태 기자 거룩한 성서까지도 비틀어 봤던 철학자의 책",
+              "url": "https://www.mk.co.kr/news/culture/12144627",
+              "summary": ""
+            },
+            {
+              "title": "韓성공공식 수명 다해 … 새 설계도 그려야 살아남는다 김유태 기자",
+              "url": "https://www.mk.co.kr/news/culture/12144623",
+              "summary": ""
+            },
+            {
+              "title": "이주의 새책 김유태 기자",
+              "url": "https://www.mk.co.kr/news/culture/12144625",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A16",
+          "label": "16면",
+          "edition": "A",
+          "number": 16,
+          "section": "가을 공연장 물들이는 '셰익스피어 무한 변주'",
+          "articles": [
+            {
+              "title": "맥베스를 음악물로 오셀로는 법정물로 셰익스피어를 비틀다 구정근 기자 가을 공연장 물들이는 '셰익스피어 무한 변주'",
+              "url": "https://www.mk.co.kr/news/culture/12144631",
+              "summary": ""
+            },
+            {
+              "title": "지구 구원 나선 석유재벌·70년대 해결사 … 거장 감독 신작 몰려온다 최현재 기자 오디세이 이을 스크린 기대작 칸 감독상 수상한 이냐리투 11년만 신작 '디거' 내달 개봉 핀처 '클리프 부스의 모험' 브래드 피트와 네번째 호흡 리들리 스콧 '도그 스타' 대재앙 속 생존한 인류 이야기",
+              "url": "https://www.mk.co.kr/news/culture/12144630",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A18",
+          "label": "18면",
+          "edition": "A",
+          "number": 18,
+          "section": "신단수·미래를 여는 창",
+          "articles": [
+            {
+              "title": "\"인공지능은 모방 못 해\" 프로스포츠에 거대자본 몰린다 조효성 기자 '예측불가' 스포츠, 대체불가 투자처로 우뚝 버저비터 전율·끝내기 홈런 생성형 AI가 복제할 수 없어 NBA 레이커스 17조원에 매각 NFL 시호크스는 13조원 기록 NBA 보스턴도 8조원에 팔려 중계 가능한 채널도 다양해져 중계권료 폭등, 흑자 운영 가능 인근 부동산 개발까지 확장해",
+              "url": "https://www.mk.co.kr/news/sports/12144732",
+              "summary": ""
+            },
+            {
+              "title": "생활체육부터 엘리트까지 … 정부 '스포츠 대전환' 나선다 김지한 기자 '스포츠 정책비전 2030' 발표 국가스포츠정책위 회의 열고 스포츠 선순환 생태계 목표 체육 관련 정책 비전 제시해 체육예산 7.9% 늘려 1.8조원",
+              "url": "https://www.mk.co.kr/news/sports/12144733",
+              "summary": ""
+            },
+            {
+              "title": "오늘의 운세 2026년 9월 5일 土(음력 7월 24일)·2026년 9월 6일 日(음력 7월 25일) 신단수·미래를 여는 창",
+              "url": "https://www.mk.co.kr/news/society/12144731",
+              "summary": ""
+            },
+            {
+              "title": "OK장학생 출신 양효진 맹타 … \"우승을 목표로 달려보겠다\" 조효성 기자 OK저축은행 읏맨 오픈 1R 신다인도 2주 연속우승 노려 아마추어 오수민도 3타 줄여",
+              "url": "https://www.mk.co.kr/news/sports/12144734",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A19",
+          "label": "19면",
+          "edition": "A",
+          "number": 19,
+          "section": "김주하의 데이앤나잇 (土 오후 9시 40분)",
+          "articles": [
+            {
+              "title": "\"승산 있는 도시부터\"…중소 K팝 해외 공략법 김대은 기자 아이돌에서 제작자 변신한 동방신기 김재중 K팝 강연 \"팬 수보다 성공여부 따져야 작게 실험하고 빠르게 확장\"",
+              "url": "https://www.mk.co.kr/news/culture/12144646",
+              "summary": ""
+            },
+            {
+              "title": "[MBN] 송창식·정미조, 9년 만의 재회 김주하의 데이앤나잇 (土 오후 9시 40분)",
+              "url": "https://www.mk.co.kr/news/culture/12144647",
+              "summary": ""
+            },
+            {
+              "title": "[MBN] '알토란' 새 MC 된 가수 안성훈 알토란 (日 오후 5시)",
+              "url": "https://www.mk.co.kr/news/culture/12144648",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A20",
+          "label": "20면",
+          "edition": "A",
+          "number": 20,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[임성현의 특파원 인사이트] \"워시, 매파본색 드러냈지만 … 금리 인상 시기 두고 혼란만 키워\" 임성현 기자 월가에서 가장 주목받는 시장 분석가 린지 피에그자 스티펠 이코노미스트 워시 잭슨홀서 모호한 태도 연준 인플레 대응 실패 자인 물가 높은데 동결 가능성도 美물가 목표 2% 훌쩍 넘어 10년물 금리 5% 돼야 적당 재무부 개입 효과는 일시적 AI기업 성장 계속되겠지만 과도한 차입은 경계할 필요 고령화 수혜 헬스케어 주목",
+              "url": "https://www.mk.co.kr/news/stock/12144677",
+              "summary": ""
+            },
+            {
+              "title": "[공빠의 실버타운 탐방기] \"전원보다 편한 도심 실버타운 … 은퇴 후 28년간 만족하며 지냈어요\" 서울시니어스 서울타워 1998년 서울에 문 연 최초 도심형 실버타운 익숙한 생활권 그대로 병원도 연결되어 편리 삼시세끼 의무 식사로 자연스레 공동체 형성",
+              "url": "https://www.mk.co.kr/news/contributors/12144676",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A21",
+          "label": "21면",
+          "edition": "A",
+          "number": 21,
+          "section": "[매경춘추] 첫 예술 경험",
+          "articles": [
+            {
+              "title": "\"삼성·LG, AI 경쟁력 강해 … 밀레는 내구성·품질로 승부\" 박민기 기자 라인하르트 진칸 밀레 공동회장 인터뷰 한국 가전 공격적 가격으로 글로벌 시장서 입지 확대해 밀레는 장기간 신뢰에 방점 한남더힐 등 고급주택 납품 AI 기반 식기세척기 공개 그릇 종류를 판단해 작동",
+              "url": "https://www.mk.co.kr/news/business/12144612",
+              "summary": ""
+            },
+            {
+              "title": "[매경춘추] 첫 예술 경험",
+              "url": "https://www.mk.co.kr/news/contributors/12144605",
+              "summary": ""
+            },
+            {
+              "title": "정용진, 美첨단산업 인재육성 프로젝트 동참 박윤예 기자 美 국무부·스탠퍼드대 추진 '파운드리 스쿨' 출범식 참석",
+              "url": "https://www.mk.co.kr/news/business/12144611",
+              "summary": ""
+            },
+            {
+              "title": "[표] 주말 레저 날씨",
+              "url": "https://www.mk.co.kr/news/society/12144606",
+              "summary": ""
+            },
+            {
+              "title": "[포토] '제9회 지식재산의 날' 김효혜 기자",
+              "url": "https://www.mk.co.kr/news/it/12144608",
+              "summary": ""
+            },
+            {
+              "title": "이재연 UNIST 인문학부 교수 … 세계디지털인문학연합 회장에 김효혜 기자",
+              "url": "https://www.mk.co.kr/news/it/12144613",
+              "summary": ""
+            },
+            {
+              "title": "한진 임직원, 소외계층 아동에 오디오북 선물 정지성 기자",
+              "url": "https://www.mk.co.kr/news/business/12144607",
+              "summary": ""
+            },
+            {
+              "title": "[부음] 권환기씨 별세 외",
+              "url": "https://www.mk.co.kr/news/society/12144610",
+              "summary": ""
+            },
+            {
+              "title": "[인사] 재정경제부 / 외교부 / 안국약품 등",
+              "url": "https://www.mk.co.kr/news/society/12144609",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A22",
+          "label": "22면",
+          "edition": "A",
+          "number": 22,
+          "section": "아이디",
+          "articles": [
+            {
+              "title": "[이관민의 딥쏘트(Deep Thought)] AI시대 '사용법'보다 '생각하는 법' 가르쳐야 프롬프트 작성교육에만 치중 AI가 못하는 공감력 키우고 VR로 타인의 고통 직접 체험 가상사회서 정책·미래 실험해 현실에 적용전 실패 경험해야 먼저 치열하게 고민한 후에 AI를 사고 도약대로 활용해 인간 고유의 판단력 길러야",
+              "url": "https://www.mk.co.kr/news/contributors/12144796",
+              "summary": ""
+            },
+            {
+              "title": "[정재민 변호사의 법률공방] 주장보다 증거가 말하게 하라 소송 승패 가르는건 결국 증거 상대 주장 일일이 반박 말고 핵심 증거 무력화에 집중하고 판사 머릿속 남을 논리 펼쳐야",
+              "url": "https://www.mk.co.kr/news/contributors/12144794",
+              "summary": ""
+            },
+            {
+              "title": "[장은수의 책과 미래] 센스 있는 사람이 되려면",
+              "url": "https://www.mk.co.kr/news/contributors/12144795",
+              "summary": ""
+            },
+            {
+              "title": "[이지안의 대나무숲] 어른의 몫 이지안 기자",
+              "url": "https://www.mk.co.kr/news/columnists/12144793",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A23",
+          "label": "23면",
+          "edition": "A",
+          "number": 23,
+          "section": "국민이 거부하는 인사는 하루라도 빨리 접는 것이 현명 [사설]",
+          "articles": [
+            {
+              "title": "[세상사는 이야기] 문명이 사라진 자리 약자를 돌보며 시작된 문명 혐오로 '우리' 의미 퇴색해 상처입은자 일으켜세우면서 서로 거대한 부목이 되어야",
+              "url": "https://www.mk.co.kr/news/contributors/12144707",
+              "summary": ""
+            },
+            {
+              "title": "'반도체·호르무즈' 美 양면 압박, 정교한 수읽기로 대처를 [사설]",
+              "url": "https://www.mk.co.kr/news/editorial/12144705",
+              "summary": ""
+            },
+            {
+              "title": "국민이 거부하는 인사는 하루라도 빨리 접는 것이 현명 [사설]",
+              "url": "https://www.mk.co.kr/news/editorial/12144704",
+              "summary": ""
+            },
+            {
+              "title": "'쓴소리' 통합위원장 경질, 레드팀이 사라진다면 [사설]",
+              "url": "https://www.mk.co.kr/news/editorial/12144703",
+              "summary": ""
+            },
+            {
+              "title": "[필동정담] 서도호의 집 김슬기 기자",
+              "url": "https://www.mk.co.kr/news/columnists/12144706",
+              "summary": ""
+            },
+            {
+              "title": "1 홀로 지갑 닫는 … 팍팍한 20代",
+              "url": "https://www.mk.co.kr/news/economy/12144751",
+              "summary": ""
+            },
+            {
+              "title": "2 [장은수의 책과 미래] 센스 있는 사람이 되려면",
+              "url": "https://www.mk.co.kr/news/contributors/12144795",
+              "summary": ""
+            },
+            {
+              "title": "3 [이관민의 딥쏘트(Deep Thought)] AI시대 '사용법'보다 '생각하는 법' 가르쳐야",
+              "url": "https://www.mk.co.kr/news/contributors/12144796",
+              "summary": ""
+            },
+            {
+              "title": "4 [이지안의 대나무숲] 어른의 몫",
+              "url": "https://www.mk.co.kr/news/columnists/12144793",
+              "summary": ""
+            },
+            {
+              "title": "1 면 종합",
+              "url": "javascript:",
+              "summary": ""
+            },
+            {
+              "title": "2 면 종합",
+              "url": "javascript:",
+              "summary": ""
+            },
+            {
+              "title": "3 면 코스닥 기업 퇴출 속도조절",
+              "url": "javascript:",
+              "summary": ""
+            },
+            {
+              "title": "4 면 종합",
+              "url": "javascript:",
+              "summary": ""
+            },
+            {
+              "title": "5 면 지갑 닫는 20대",
+              "url": "javascript:",
+              "summary": ""
+            },
+            {
+              "title": "6 면 정치·외교안보",
+              "url": "javascript:",
+              "summary": ""
+            }
+          ]
+        }
+      ],
+      "message": ""
+    },
+    {
+      "id": "hani",
+      "name": "한겨레",
+      "date": "2026-09-05",
+      "status": "구독/로그인 기반",
+      "source": "https://newsviews.hani.co.kr/",
+      "pages": [],
+      "message": "공개 접근 범위 내 연동 방식 검토 중입니다."
+    },
+    {
+      "id": "khan",
+      "name": "경향신문",
+      "date": "2026-09-05",
+      "status": "유료 지면보기",
+      "source": "https://epaper.khan.co.kr/",
+      "pages": [],
+      "message": "공개 접근 범위 내 연동 방식 검토 중입니다."
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "date": "2026-09-05",
+      "status": "연동 예정",
+      "source": "https://www.hankyung.com/",
+      "pages": []
+    },
+    {
+      "id": "chosun",
+      "name": "조선일보",
+      "date": "2026-09-05",
+      "status": "연동 예정",
+      "source": "https://www.chosun.com/",
+      "pages": []
+    },
+    {
+      "id": "joongang",
+      "name": "중앙일보",
+      "date": "2026-09-05",
+      "status": "연동 예정",
+      "source": "https://www.joongang.co.kr/",
+      "pages": []
+    },
+    {
+      "id": "seoul",
+      "name": "서울신문",
+      "date": "2026-09-05",
+      "status": "연동 예정",
+      "source": "https://www.seoul.co.kr/",
+      "pages": []
+    }
+  ]
+}

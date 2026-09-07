@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-09-07T09:36:07.052837+09:00",
+  "papers": [
+    {
+      "id": "donga",
+      "name": "동아일보",
+      "date": "2026-09-06",
+      "status": "지면 파싱 실패",
+      "source": "https://www.donga.com/news/Pdf?ymd=20260906",
+      "pages": [],
+      "message": "동아일보 지면 구조가 변경되었을 수 있습니다."
+    },
+    {
+      "id": "mk",
+      "name": "매일경제",
+      "date": "2026-09-06",
+      "status": "비발행일 또는 파싱 실패",
+      "source": "https://www.mk.co.kr/today-paper/?date=20260906&section=A",
+      "pages": [],
+      "message": "해당 날짜 지면이 없거나 사이트 구조가 변경되었을 수 있습니다."
+    },
+    {
+      "id": "hani",
+      "name": "한겨레",
+      "date": "2026-09-06",
+      "status": "구독/로그인 기반",
+      "source": "https://newsviews.hani.co.kr/",
+      "pages": [],
+      "message": "공개 접근 범위 내 연동 방식 검토 중입니다."
+    },
+    {
+      "id": "khan",
+      "name": "경향신문",
+      "date": "2026-09-06",
+      "status": "유료 지면보기",
+      "source": "https://epaper.khan.co.kr/",
+      "pages": [],
+      "message": "공개 접근 범위 내 연동 방식 검토 중입니다."
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "date": "2026-09-06",
+      "status": "연동 예정",
+      "source": "https://www.hankyung.com/",
+      "pages": []
+    },
+    {
+      "id": "chosun",
+      "name": "조선일보",
+      "date": "2026-09-06",
+      "status": "연동 예정",
+      "source": "https://www.chosun.com/",
+      "pages": []
+    },
+    {
+      "id": "joongang",
+      "name": "중앙일보",
+      "date": "2026-09-06",
+      "status": "연동 예정",
+      "source": "https://www.joongang.co.kr/",
+      "pages": []
+    },
+    {
+      "id": "seoul",
+      "name": "서울신문",
+      "date": "2026-09-06",
+      "status": "연동 예정",
+      "source": "https://www.seoul.co.kr/",
+      "pages": []
+    }
+  ]
+}
