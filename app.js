@@ -1,13 +1,40 @@
-
 const $ = (s) => document.querySelector(s);
 let DB = null;
-let selectedPaper = "mk";
-let selectedPage = 1;
+let selectedPaper = "donga";
+let selectedPage = null;
+let selectedEdition = "A";
+let hideAds = true;
 
 function fmtDate(v) {
   if (!v) return "";
   const d = new Date(v + "T00:00:00");
-  return new Intl.DateTimeFormat("ko-KR", {year:"numeric", month:"long", day:"numeric", weekday:"long"}).format(d);
+  return new Intl.DateTimeFormat("ko-KR", {
+    year:"numeric", month:"long", day:"numeric", weekday:"long"
+  }).format(d);
+}
+
+function currentPaper() {
+  return DB.papers.find(p => p.id === selectedPaper);
+}
+
+function availablePages(paper) {
+  let pages = paper.pages || [];
+  if (pages.some(p => p.edition_section)) {
+    pages = pages.filter(p => (p.edition_section || "A") === selectedEdition);
+  }
+  if (hideAds) pages = pages.filter(p => !p.is_ad);
+  return pages;
+}
+
+function ensureSelection() {
+  const paper = currentPaper();
+  const editions = [...new Set((paper.pages || []).map(p => p.edition_section).filter(Boolean))];
+  if (editions.length && !editions.includes(selectedEdition)) selectedEdition = editions[0];
+
+  const pages = availablePages(paper);
+  if (!pages.some(p => p.label === selectedPage)) {
+    selectedPage = pages[0]?.label ?? null;
+  }
 }
 
 function renderPapers() {
@@ -19,46 +46,92 @@ function renderPapers() {
     b.textContent = p.name;
     b.onclick = () => {
       selectedPaper = p.id;
-      selectedPage = p.pages[0]?.number ?? 1;
+      selectedEdition = "A";
+      selectedPage = null;
       render();
     };
     host.appendChild(b);
   });
 }
 
+function renderExtraControls(paper) {
+  let host = document.querySelector("#editionControls");
+  if (!host) {
+    host = document.createElement("div");
+    host.id = "editionControls";
+    host.style.cssText = "display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:18px 0 4px;";
+    $("#pageTabs").before(host);
+  }
+  host.innerHTML = "";
+
+  const editions = [...new Set((paper.pages || []).map(p => p.edition_section).filter(Boolean))];
+  if (editions.length > 1) {
+    editions.forEach(ed => {
+      const b = document.createElement("button");
+      b.className = "page-tab" + (ed === selectedEdition ? " active" : "");
+      b.textContent = `${ed}섹션`;
+      b.onclick = () => { selectedEdition = ed; selectedPage = null; render(); };
+      host.appendChild(b);
+    });
+  }
+
+  if ((paper.pages || []).some(p => p.is_ad)) {
+    const b = document.createElement("button");
+    b.className = "page-tab";
+    b.textContent = hideAds ? "광고면 숨김 ✓" : "광고면 표시";
+    b.onclick = () => { hideAds = !hideAds; selectedPage = null; render(); };
+    host.appendChild(b);
+  }
+}
+
 function render() {
   renderPapers();
-  const paper = DB.papers.find(p => p.id === selectedPaper);
+  ensureSelection();
+  const paper = currentPaper();
+
   $("#paperStatus").textContent = paper.status;
   $("#editionDate").textContent = fmtDate(paper.date);
   $("#editionTitle").textContent = paper.name;
   $("#sourceLink").href = paper.source;
 
+  renderExtraControls(paper);
+
+  const pages = availablePages(paper);
   const pageHost = $("#pageTabs");
   pageHost.innerHTML = "";
-  paper.pages.forEach(pg => {
+
+  pages.forEach(pg => {
+    const key = pg.label || String(pg.number);
     const b = document.createElement("button");
-    b.className = "page-tab" + (pg.number === selectedPage ? " active" : "");
-    b.textContent = `${pg.number}면`;
-    b.onclick = () => { selectedPage = pg.number; render(); };
+    b.className = "page-tab" + (key === selectedPage ? " active" : "");
+    b.textContent = pg.label || `${pg.number}면`;
+    b.onclick = () => { selectedPage = key; render(); };
     pageHost.appendChild(b);
   });
 
-  const page = paper.pages.find(pg => pg.number === selectedPage);
+  const page = pages.find(pg => (pg.label || String(pg.number)) === selectedPage);
   const list = $("#articleList");
+
   if (!page) {
-    $("#pageMeta").textContent = "이 신문사는 현재 자동 수집 어댑터를 연결하는 단계입니다.";
-    list.innerHTML = `<div class="empty">공식 지면보기는 위 링크에서 바로 확인할 수 있어요.<br>수집 어댑터를 추가하면 면별 기사 목록이 이곳에 표시됩니다.</div>`;
+    $("#pageMeta").textContent = "현재 자동 수집된 지면 데이터가 없습니다.";
+    list.innerHTML = `<div class="empty">신문사 지면보기 링크에서 확인할 수 있어요.</div>`;
     return;
   }
 
-  $("#pageMeta").textContent = `${page.number}면 · ${page.section} · ${page.articles.length}개 기사`;
+  $("#pageMeta").textContent =
+    `${page.label || page.number + "면"} · ${page.section || "지면"} · ${page.articles.length}개 항목`;
+
+  if (!page.articles.length) {
+    list.innerHTML = `<div class="empty">${page.is_ad ? "전면광고 지면입니다." : "표시할 기사가 없습니다."}</div>`;
+    return;
+  }
+
   list.innerHTML = page.articles.map((a, i) => `
     <article class="article">
       <div class="rank">${String(i+1).padStart(2,"0")}</div>
       <div>
         <h3>${a.title}</h3>
-        <p>${a.summary || ""}</p>
+        ${a.summary ? `<p>${a.summary}</p>` : ""}
       </div>
       <a class="read" href="${a.url}" target="_blank" rel="noopener">원문 보기 ↗</a>
     </article>
@@ -66,12 +139,8 @@ function render() {
 }
 
 async function init() {
-  const res = await fetch("./data/latest.json");
+  const res = await fetch("./data/latest.json", {cache:"no-store"});
   DB = await res.json();
-  $("#date").value = DB.papers.find(p => p.id === selectedPaper)?.date || "";
-  $("#date").addEventListener("change", () => {
-    alert("MVP에서는 latest.json 한 날짜를 표시합니다. scraper.py를 날짜별 JSON 저장 방식으로 확장하면 과거 날짜 탐색도 가능합니다.");
-  });
   render();
 }
 init();
