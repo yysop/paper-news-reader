@@ -1,0 +1,155 @@
+{
+  "generated_at": "2026-09-07T08:53:00+09:00",
+  "papers": [
+    {
+      "id": "mk",
+      "name": "매일경제",
+      "date": "2026-09-07",
+      "status": "자동 수집 가능",
+      "source": "https://www.mk.co.kr/today-paper/",
+      "pages": [
+        {
+          "number": 1,
+          "section": "종합",
+          "articles": [
+            {
+              "title": "패권지형 변화 … \"韓日 동맹에 준하는 협력을\"",
+              "summary": "제27회 세계지식포럼에서 한일 협력과 동북아 안보를 다룬 1면 기사.",
+              "url": "https://www.mk.co.kr/today-paper/"
+            },
+            {
+              "title": "기업형 임대사업자 … 종부세부담 줄인다",
+              "summary": "기업형 장기임대의 보유세 합산배제 혜택 검토를 다룬 기사.",
+              "url": "https://www.mk.co.kr/today-paper/"
+            },
+            {
+              "title": "현대차그룹, 美서 '쇳물부터 車까지' 공급망 첫발",
+              "summary": "현대제철의 미국 루이지애나 제철소 투자 및 공급망 구축 기사.",
+              "url": "https://www.mk.co.kr/today-paper/"
+            },
+            {
+              "title": "올겨울 전 세계 '난방 대란' 공포",
+              "summary": "천연가스 가격 상승과 글로벌 에너지 수급 문제를 다룬 기사.",
+              "url": "https://www.mk.co.kr/today-paper/"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "수출 1조달러 눈앞",
+          "articles": [
+            {
+              "title": "韓수출 '세계 4강' 보인다 … 반도체 호황에 벌써 신기록",
+              "summary": "한국 수출 증가와 반도체 호황, 1조달러 수출 가능성을 다룬 지면 기사.",
+              "url": "https://www.mk.co.kr/today-paper/"
+            },
+            {
+              "title": "트럼프 \"연준이 금리 안 내리면 美가 적자보는 나라와 무역 중단\"",
+              "summary": "미국 금리와 무역정책을 연결한 발언을 다룬 국제경제 기사.",
+              "url": "https://www.mk.co.kr/today-paper/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "donga",
+      "name": "동아일보",
+      "date": "2026-09-05",
+      "status": "자동 수집 가능",
+      "source": "https://www.donga.com/news",
+      "pages": [
+        {
+          "number": 1,
+          "section": "종합",
+          "articles": [
+            {
+              "title": "김승원 “식약처 승인땐 수천억”… 청탁의혹 증폭",
+              "summary": "동아일보 A1에 배치된 주요 정치·사회 기사.",
+              "url": "https://www.donga.com/news"
+            },
+            {
+              "title": "네팔 홍수 ‘9일만의 기적’… 발전소 터널서 2명 구조",
+              "summary": "네팔 홍수 구조 소식을 다룬 국제 기사.",
+              "url": "https://www.donga.com/news"
+            },
+            {
+              "title": "방 내준 어르신, 말벗 된 대학생… 남과 사는 ‘60만 식구’",
+              "summary": "새로운 주거·가구 형태를 다룬 사회 기사.",
+              "url": "https://www.donga.com/news"
+            },
+            {
+              "title": "“韓, 日 추월해 2060년 세계 최고령국… 10명중 4명이 65세 이상”",
+              "summary": "한국의 고령화 전망을 다룬 인구 기사.",
+              "url": "https://www.donga.com/news"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "종합",
+          "articles": [
+            {
+              "title": "“韓, 日 추월해 2060년 세계 최고령국… 10명중 4명이 65세 이상”",
+              "summary": "1면에서 이어지는 고령화 관련 기사.",
+              "url": "https://www.donga.com/news"
+            },
+            {
+              "title": "네팔 홍수 ‘9일만의 기적’… 발전소 터널서 2명 구조",
+              "summary": "1면에서 이어지는 국제 기사.",
+              "url": "https://www.donga.com/news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hani",
+      "name": "한겨레",
+      "date": "2026-09-07",
+      "status": "로그인/구독 기반",
+      "source": "https://newsviews.hani.co.kr/",
+      "pages": []
+    },
+    {
+      "id": "khan",
+      "name": "경향신문",
+      "date": "2026-09-07",
+      "status": "유료 지면보기",
+      "source": "https://epaper.khan.co.kr/",
+      "pages": []
+    },
+    {
+      "id": "hankyung",
+      "name": "한국경제",
+      "date": "2026-09-07",
+      "status": "지면 메타데이터 연동 대상",
+      "source": "https://www.hankyung.com/",
+      "pages": []
+    },
+    {
+      "id": "chosun",
+      "name": "조선일보",
+      "date": "2026-09-07",
+      "status": "어댑터 추가 필요",
+      "source": "https://www.chosun.com/",
+      "pages": []
+    },
+    {
+      "id": "joongang",
+      "name": "중앙일보",
+      "date": "2026-09-07",
+      "status": "어댑터 추가 필요",
+      "source": "https://www.joongang.co.kr/",
+      "pages": []
+    },
+    {
+      "id": "seoul",
+      "name": "서울신문",
+      "date": "2026-09-07",
+      "status": "지면 메타데이터 연동 대상",
+      "source": "https://www.seoul.co.kr/",
+      "pages": []
+    }
+  ]
+}

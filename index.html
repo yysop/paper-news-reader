@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>오늘의 지면</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">PRINT EDITION READER</p>
+      <h1>오늘의 지면</h1>
+      <p class="subtitle">인터넷 속보 대신, 실제 종이신문에 배치된 순서대로 읽습니다.</p>
+    </div>
+    <div class="date-box">
+      <label for="date">날짜</label>
+      <input id="date" type="date" />
+    </div>
+  </header>
+
+  <main>
+    <section class="paper-picker">
+      <div class="section-title">
+        <h2>신문사</h2>
+        <span id="paperStatus" class="status"></span>
+      </div>
+      <div id="paperTabs" class="paper-tabs"></div>
+    </section>
+
+    <section class="edition-card">
+      <div class="edition-head">
+        <div>
+          <p id="editionDate" class="edition-date"></p>
+          <h2 id="editionTitle">신문을 선택하세요</h2>
+        </div>
+        <a id="sourceLink" class="source-link" href="#" target="_blank" rel="noopener">신문사 지면보기 ↗</a>
+      </div>
+
+      <div id="pageTabs" class="page-tabs"></div>
+      <div id="pageMeta" class="page-meta"></div>
+      <div id="articleList" class="article-list"></div>
+    </section>
+
+    <section class="notice">
+      <strong>원칙</strong>
+      <p>이 서비스는 신문 기사 전문을 재배포하지 않고, 지면에 실린 기사 제목·면수·간단한 설명과 신문사 원문 링크를 정리하는 형태를 전제로 합니다.</p>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>
