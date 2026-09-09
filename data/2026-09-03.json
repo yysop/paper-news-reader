@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T09:37:39.338526+09:00",
+  "generated_at": "2026-09-09T09:28:42.062848+09:00",
   "papers": [
     {
       "id": "donga",
@@ -847,6 +847,34 @@
           ]
         },
         {
+          "key": "C2",
+          "label": "C2",
+          "edition": "C",
+          "number": 2,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "재난의 흔적 지우고 희망 세우는 손길",
+              "url": "https://www.donga.com/news/article/all/20260902/134584137/1",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "C3",
+          "label": "C3",
+          "edition": "C",
+          "number": 3,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“하나님의 교회 주소지는 ‘전 세계’입니다”",
+              "url": "https://www.donga.com/news/article/all/20260902/134585376/1",
+              "summary": ""
+            }
+          ]
+        },
+        {
           "key": "C4",
           "label": "C4",
           "edition": "C",
@@ -854,8 +882,8 @@
           "section": "지면",
           "articles": [
             {
-              "title": "1일치 결제하기",
-              "url": "https://www.donga.com",
+              "title": "예수와 초대교회가 지킨 새 언약, 하나님의 교회에서 이어져",
+              "url": "https://www.donga.com/news/article/all/20260902/134584347/1",
               "summary": ""
             }
           ]
