@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T09:20:39.728568+09:00",
+  "generated_at": "2026-09-21T09:31:18.789401+09:00",
   "papers": [
     {
       "id": "donga",
       "name": "동아일보",
       "date": "2026-09-11",
-      "status": "수집 오류: ConnectionError",
+      "status": "수집 오류: ConnectTimeout",
       "source": "https://www.donga.com/news/Pdf",
       "pages": [],
       "message": "자동 수집 중 오류가 발생했습니다."
