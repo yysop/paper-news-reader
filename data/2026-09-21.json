@@ -1,14 +1,962 @@
 {
-  "generated_at": "2026-09-21T09:26:01.038381+09:00",
+  "generated_at": "2026-09-22T10:03:29.588210+09:00",
   "papers": [
     {
       "id": "donga",
       "name": "동아일보",
       "date": "2026-09-21",
-      "status": "수집 오류: ConnectTimeout",
-      "source": "https://www.donga.com/news/Pdf",
-      "pages": [],
-      "message": "자동 수집 중 오류가 발생했습니다."
+      "status": "자동 수집 완료",
+      "source": "https://www.donga.com/news/Pdf?ymd=20260921",
+      "pages": [
+        {
+          "key": "A1",
+          "label": "A1",
+          "edition": "A",
+          "number": 1,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "커지는 인사 책임론… 추가의혹 김승원도 낙마",
+              "url": "https://www.donga.com/news/article/all/20260921/134707094/2",
+              "summary": ""
+            },
+            {
+              "title": "亞게임 시작부터 골든데이… 남자농구, 일본 꺾고 금메달",
+              "url": "https://www.donga.com/news/article/all/20260921/134707087/2",
+              "summary": ""
+            },
+            {
+              "title": "[알립니다]청년-여성-중장년 ‘일자리 새출발’",
+              "url": "https://www.donga.com/news/article/all/20260921/134707089/2",
+              "summary": ""
+            },
+            {
+              "title": "美, 외교장관 회담서 호르무즈 협력-대미투자 동시 압박",
+              "url": "https://www.donga.com/news/article/all/20260921/134707085/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A2",
+          "label": "A2",
+          "edition": "A",
+          "number": 2,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "이현중, 67점중 27득점 날았다… 랭킹 35계단 위 日 완파",
+              "url": "https://www.donga.com/news/article/all/20260921/134707078/2",
+              "summary": ""
+            },
+            {
+              "title": "이준석, 대기업도 관두고 ‘테크볼 하이킥’",
+              "url": "https://www.donga.com/news/article/all/20260921/134707080/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A3",
+          "label": "A3",
+          "edition": "A",
+          "number": 3,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "‘김승원 탄원서’ 靑전달→인청 보고서 채택→李 “결론 못내”→金 사퇴",
+              "url": "https://www.donga.com/news/article/all/20260921/134707073/2",
+              "summary": ""
+            },
+            {
+              "title": "용혜인 이어 김승원 사퇴에 與서도 “인사 참사”",
+              "url": "https://www.donga.com/news/article/all/20260921/134707071/2",
+              "summary": ""
+            },
+            {
+              "title": "전직 보좌진 “金 임명 강행 분위기라서 탄원서 전달”",
+              "url": "https://www.donga.com/news/article/all/20260921/134707069/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A4",
+          "label": "A4",
+          "edition": "A",
+          "number": 4,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "靑, 金 청탁 의혹 묵인하고 탄원서 사실확인 안해… 비선 개입설도",
+              "url": "https://www.donga.com/news/article/all/20260921/134706883/2",
+              "summary": ""
+            },
+            {
+              "title": "“볼수록 잘된 인사” 김승원 방어 앞장섰던 김민석 타격",
+              "url": "https://www.donga.com/news/article/all/20260921/134706881/2",
+              "summary": ""
+            },
+            {
+              "title": "국힘 “김승원 의원직 사퇴하고 수사 받아야”",
+              "url": "https://www.donga.com/news/article/all/20260921/134706879/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A5",
+          "label": "A5",
+          "edition": "A",
+          "number": 5,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "李, ‘친노-친문 비난’ 지지자 글 공유 논란에 삭제… “유감 표해”",
+              "url": "https://www.donga.com/news/article/all/20260921/134706402/2",
+              "summary": ""
+            },
+            {
+              "title": "형사사법 전환 11일 앞, 핵심 4대 수장 모두 공백",
+              "url": "https://www.donga.com/news/article/all/20260921/134706400/2",
+              "summary": ""
+            },
+            {
+              "title": "李 “청년정책 총괄 전담조직 신설 고민”",
+              "url": "https://www.donga.com/news/article/all/20260921/134706398/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A6",
+          "label": "A6",
+          "edition": "A",
+          "number": 6,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "美, 신속 대미투자 요구하며 반도체 거론… 호르무즈 협력도 강조",
+              "url": "https://www.donga.com/news/article/all/20260921/134706459/2",
+              "summary": ""
+            },
+            {
+              "title": "후티, 사우디 수도까지 공격… 공항인근 연료탱크 불-항공편 결항",
+              "url": "https://www.donga.com/news/article/all/20260921/134706454/2",
+              "summary": ""
+            },
+            {
+              "title": "“한미일 북극권 MOU… 에너지자원 개발 협력”",
+              "url": "https://www.donga.com/news/article/all/20260921/134706448/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A8",
+          "label": "A8",
+          "edition": "A",
+          "number": 8,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "美中 경제수장, 관세-희토류-AI 등 조율 돌입… 정상회담 전초전",
+              "url": "https://www.donga.com/news/article/all/20260921/134706478/2",
+              "summary": ""
+            },
+            {
+              "title": "北 이번엔 미사일 ‘시간차 도발’… 비행거리도 달라",
+              "url": "https://www.donga.com/news/article/all/20260921/134706471/2",
+              "summary": ""
+            },
+            {
+              "title": "美 “전화든 만나서든 김정은과 대화 준비, 어떤 조건도 없이 열려 있다… 공은 北에”",
+              "url": "https://www.donga.com/news/article/all/20260921/134706473/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A10",
+          "label": "A10",
+          "edition": "A",
+          "number": 10,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[단독]‘엔비디아 천하’ AI칩, 국산 상용화 첫발… “의존 낮출 선택지 기대”",
+              "url": "https://www.donga.com/news/article/all/20260921/134706429/2",
+              "summary": ""
+            },
+            {
+              "title": "稅前 소득 평등도 1위 韓, 세금 내고 연금 받으면 22위 급락",
+              "url": "https://www.donga.com/news/article/all/20260921/134706427/2",
+              "summary": ""
+            },
+            {
+              "title": "외국인 주택매입, 경기-인천으로 확산",
+              "url": "https://www.donga.com/news/article/all/20260921/134706425/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A12",
+          "label": "A12",
+          "edition": "A",
+          "number": 12,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[단독]분노조절 못하는 10대들… 부모 폭행-협박 10년새 3배로",
+              "url": "https://www.donga.com/news/article/all/20260921/134706803/2",
+              "summary": ""
+            },
+            {
+              "title": "“앗! 상어다” 3.5m 길이 출몰에 ‘핫플’된 부산 북항",
+              "url": "https://www.donga.com/news/article/all/20260921/134706800/2",
+              "summary": ""
+            },
+            {
+              "title": "안성 나눔장터에 1t 트럭 돌진, 자원봉사 모자 숨져",
+              "url": "https://www.donga.com/news/article/all/20260921/134706798/2",
+              "summary": ""
+            },
+            {
+              "title": "쿠팡 “인천물류센터 화재 주민피해 복구 10만~20만원 지원”",
+              "url": "https://www.donga.com/news/article/all/20260921/134706795/2",
+              "summary": ""
+            },
+            {
+              "title": "초등1년 동급생 밀어 타박상… 대법 “학폭 아니다”",
+              "url": "https://www.donga.com/news/article/all/20260921/134706793/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A14",
+          "label": "A14",
+          "edition": "A",
+          "number": 14,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[단독]“120일로 단축” 예산 2.7배 늘렸는데 아직 221일…속도 못내는 산재 처리",
+              "url": "https://www.donga.com/news/article/all/20260921/134706439/2",
+              "summary": ""
+            },
+            {
+              "title": "‘수시 먹통’에 거리로 나온 수험생-학부모… “마감 시간 이후 접수된 원서 모두 취소를”",
+              "url": "https://www.donga.com/news/article/all/20260920/134706446/2",
+              "summary": ""
+            },
+            {
+              "title": "서리풀뮤직페스티벌 참가한 초등생 취타대",
+              "url": "https://www.donga.com/news/article/all/20260920/134706441/2",
+              "summary": ""
+            },
+            {
+              "title": "“추석 귀성길 24일 오전-귀경 25일 오후 가장 혼잡”",
+              "url": "https://www.donga.com/news/article/all/20260920/134706444/2",
+              "summary": ""
+            },
+            {
+              "title": "서울권 의대 수시 지원자 10년새 최저… 지역선발은 급증",
+              "url": "https://www.donga.com/news/article/all/20260920/134706442/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A16",
+          "label": "A16",
+          "edition": "A",
+          "number": 16,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“고양은 기업, 항공대는 인재… 항공우주로 일자리 엔진 켠다”",
+              "url": "https://www.donga.com/news/article/all/20260920/134705707/2",
+              "summary": ""
+            },
+            {
+              "title": "“버스만으론 10만 생활권 못 버텨” 고양은평선, 식사 연장 재추진",
+              "url": "https://www.donga.com/news/article/all/20260920/134705705/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A18",
+          "label": "A18",
+          "edition": "A",
+          "number": 18,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“그린란드 병합” 외쳤던 트럼프의 용두사미… 병력주둔만 강화",
+              "url": "https://www.donga.com/news/article/all/20260920/134706437/2",
+              "summary": ""
+            },
+            {
+              "title": "“트럼프, 케네디센터에서 손 떼라” 반대 시위",
+              "url": "https://www.donga.com/news/article/all/20260920/134706435/2",
+              "summary": ""
+            },
+            {
+              "title": "트럼프, 허위 뉴스로 몰아 CNN 등 3社 백악관 출입금지",
+              "url": "https://www.donga.com/news/article/all/20260920/134706433/2",
+              "summary": ""
+            },
+            {
+              "title": "“베를린 시장 되면 아파트 22만채 몰수”… ‘독일판 여자 맘다니’ 정당 지지율 1위",
+              "url": "https://www.donga.com/news/article/all/20260920/134706431/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A20",
+          "label": "A20",
+          "edition": "A",
+          "number": 20,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "기다림도 모험이었다… 페넬로페의 ‘오디세이’",
+              "url": "https://www.donga.com/news/article/all/20260921/134706353/2",
+              "summary": ""
+            },
+            {
+              "title": "‘타짜’ 마지막 승부… ‘쪼는 맛’이 아쉽네",
+              "url": "https://www.donga.com/news/article/all/20260921/134706349/2",
+              "summary": ""
+            },
+            {
+              "title": "바람-돌-해녀… 제주의 모든 게 작품이 된다",
+              "url": "https://www.donga.com/news/article/all/20260921/134706355/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A21",
+          "label": "A21",
+          "edition": "A",
+          "number": 21,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[오늘의 채널A]10년간 잠적한 의뢰인 생부, 결국 찾아",
+              "url": "https://www.donga.com/news/article/all/20260921/134705779/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A23",
+          "label": "A23",
+          "edition": "A",
+          "number": 23,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "1만2000명 ‘가을 러닝’… ‘선캡 여왕’ 이지윤씨 女풀코스 제패",
+              "url": "https://www.donga.com/news/article/all/20260921/134706848/2",
+              "summary": ""
+            },
+            {
+              "title": "일주일전 결혼식 북유럽 ‘트레일러너 부부’ 동반 입상",
+              "url": "https://www.donga.com/news/article/all/20260921/134706821/2",
+              "summary": ""
+            },
+            {
+              "title": "[오늘의 운세/9월21일]",
+              "url": "https://www.donga.com/news/article/all/20260921/134706877/2",
+              "summary": ""
+            },
+            {
+              "title": "신상훈, 軍전역후 첫 우승",
+              "url": "https://www.donga.com/news/article/all/20260921/134706819/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A24",
+          "label": "A24",
+          "edition": "A",
+          "number": 24,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "근대5종, 한국 金행진 물꼬 텄다… 1호 女개인전-2호 男단체전",
+              "url": "https://www.donga.com/news/article/all/20260921/134706892/2",
+              "summary": ""
+            },
+            {
+              "title": "개회식 매진이라더니 텅 비어있는 관중석",
+              "url": "https://www.donga.com/news/article/all/20260921/134706885/2",
+              "summary": ""
+            },
+            {
+              "title": "정구 남녀단체전 결승 진출 좌절… 나란히 銅",
+              "url": "https://www.donga.com/news/article/all/20260921/134706888/2",
+              "summary": ""
+            },
+            {
+              "title": "[오늘의 아시안게임]2026년 9월 21일",
+              "url": "https://www.donga.com/news/article/all/20260921/134706898/2",
+              "summary": ""
+            },
+            {
+              "title": "세계 최강과 0.04초차… 김영범 자유형 100m 銀",
+              "url": "https://www.donga.com/news/article/all/20260921/134706890/2",
+              "summary": ""
+            },
+            {
+              "title": "반효진, 생일에 동메달… 조카가 깜짝 선물",
+              "url": "https://www.donga.com/news/article/all/20260921/134706887/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A26",
+          "label": "A26",
+          "edition": "A",
+          "number": 26,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "5년전 환대해 준 곡성, 다시 찾은 美대사",
+              "url": "https://www.donga.com/news/article/all/20260921/134706379/2",
+              "summary": ""
+            },
+            {
+              "title": "[부고]김옥련별세 外",
+              "url": "https://www.donga.com/news/article/all/20260921/134706381/2",
+              "summary": ""
+            },
+            {
+              "title": "펄떡이는 잉어 연적에 웃음 터진 국중박",
+              "url": "https://www.donga.com/news/article/all/20260921/134706374/2",
+              "summary": ""
+            },
+            {
+              "title": "“AI시대 과학은…” 서울 찾은 노벨상 수상자들",
+              "url": "https://www.donga.com/news/article/all/20260921/134706377/2",
+              "summary": ""
+            },
+            {
+              "title": "‘스키즈’ 방찬, 병원-네팔에 2억 기부",
+              "url": "https://www.donga.com/news/article/all/20260921/134706372/2",
+              "summary": ""
+            },
+            {
+              "title": "[알립니다]“달리면서 기부를” 서울 플러스 10K 오늘부터 접수",
+              "url": "https://www.donga.com/news/article/all/20260921/134706388/2",
+              "summary": ""
+            },
+            {
+              "title": "[라운지] 세계교회성장연구원(CGI)",
+              "url": "https://www.donga.com/news/article/all/20260921/134706383/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A28",
+          "label": "A28",
+          "edition": "A",
+          "number": 28,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[이원홍의 스포트라이트]어머니와 한국, 일본 귀화… 되돌아보는 장훈의 일생",
+              "url": "https://www.donga.com/news/article/all/20260920/134706039/2",
+              "summary": ""
+            },
+            {
+              "title": "닮은 듯 다른 사춘기와 조현병 전구기[김지용의 마음처방]",
+              "url": "https://www.donga.com/news/article/all/20260920/134706041/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A29",
+          "label": "A29",
+          "edition": "A",
+          "number": 29,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“가만히 좀 있어”… 잔소리보다 아이를 살펴야[오은영의 부모마음 아이마음]",
+              "url": "https://www.donga.com/news/article/all/20260920/134706049/2",
+              "summary": ""
+            },
+            {
+              "title": "과학기술 인재 강국의 성패는 연구 현장에 달렸다[기고/배충식]",
+              "url": "https://www.donga.com/news/article/all/20260920/134706047/2",
+              "summary": ""
+            },
+            {
+              "title": "주례 없는 게 당연해진 결혼식… 듣기 힘들어진 어른의 한마디[2030세상/박찬용]",
+              "url": "https://www.donga.com/news/article/all/20260920/134706053/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A30",
+          "label": "A30",
+          "edition": "A",
+          "number": 30,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[광화문에서/권기범]경찰 내 ‘레드팀’ 역할 할 심사-심의 제대로 혁신해야",
+              "url": "https://www.donga.com/news/article/all/20260920/134706469/3",
+              "summary": ""
+            },
+            {
+              "title": "[천광암 칼럼]李 “저의 부족”에 지지율 반등할까",
+              "url": "https://www.donga.com/news/article/all/20260920/134706467/3",
+              "summary": ""
+            },
+            {
+              "title": "[횡설수설/박희창]“사상 최대의 노동 착취”",
+              "url": "https://www.donga.com/news/article/all/20260920/134706465/3",
+              "summary": ""
+            },
+            {
+              "title": "[고양이 눈]풋사과 한 조각",
+              "url": "https://www.donga.com/news/article/all/20260920/134706463/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A31",
+          "label": "A31",
+          "edition": "A",
+          "number": 31,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[특파원 칼럼/신진우]北과의 협상 출발점 흔드는 트럼프의 ‘적대적’ 표현",
+              "url": "https://www.donga.com/news/article/all/20260920/134706104/3",
+              "summary": ""
+            },
+            {
+              "title": "[사설]더 길고 높은 ‘3高 파도’… ‘밑바닥 경제’부터 챙겨라",
+              "url": "https://www.donga.com/news/article/all/20260920/134706110/2",
+              "summary": ""
+            },
+            {
+              "title": "완전한 아름다움[내가 만난 명문장/양정웅]",
+              "url": "https://www.donga.com/news/article/all/20260920/134706108/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]“볼수록 잘된 인사”라는 경망함이 인사 참사 불렀다",
+              "url": "https://www.donga.com/news/article/all/20260920/134706102/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]세전 ‘소득 평등도’ 1위인데 세후는 22위… 보편복지 줄여야",
+              "url": "https://www.donga.com/news/article/all/20260920/134706100/3",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A32",
+          "label": "A32",
+          "edition": "A",
+          "number": 32,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "1일치 결제하기",
+              "url": "https://www.donga.com",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "B1",
+          "label": "B1",
+          "edition": "B",
+          "number": 1,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "6년만에 확 바뀐 ‘투싼’… 더 커지고 안전해졌다",
+              "url": "https://www.donga.com/news/article/all/20260920/134705392/2",
+              "summary": ""
+            },
+            {
+              "title": "“주식 대신 예적금” 은행 총수신 올 최고 찍었다",
+              "url": "https://www.donga.com/news/article/all/20260920/134705390/2",
+              "summary": ""
+            },
+            {
+              "title": "서울 아파트 증여 목동-상계가 1, 2위… ‘재건축 쏠림’ 뚜렷",
+              "url": "https://www.donga.com/news/article/all/20260920/134705388/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "B2",
+          "label": "B2",
+          "edition": "B",
+          "number": 2,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "환율 다시 1385원 넘어서… 고유가 겹쳐 수입물가 상승 비상",
+              "url": "https://www.donga.com/news/article/all/20260920/134705328/2",
+              "summary": ""
+            },
+            {
+              "title": "생애 최초 LTV 혼선에… 예외 사유 유권해석 내기로",
+              "url": "https://www.donga.com/news/article/all/20260920/134705326/2",
+              "summary": ""
+            },
+            {
+              "title": "“외화 직거래, 보이스피싱 범죄 연루될수도”",
+              "url": "https://www.donga.com/news/article/all/20260920/134705324/2",
+              "summary": ""
+            },
+            {
+              "title": "공정위 민생사정에… 기업들 현장조사부터 반발",
+              "url": "https://www.donga.com/news/article/all/20260920/134705322/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "B3",
+          "label": "B3",
+          "edition": "B",
+          "number": 3,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“전 부치는 비용도 부담” 추석 밥상물가 뛰자 간편식 인기",
+              "url": "https://www.donga.com/news/article/all/20260920/134705015/2",
+              "summary": ""
+            },
+            {
+              "title": "LG이노텍, AI로 부품 찾고 가격 예측",
+              "url": "https://www.donga.com/news/article/all/20260920/134705006/2",
+              "summary": ""
+            },
+            {
+              "title": "구자은 LS 회장 “AI 시대 변화 속도 즐기자”",
+              "url": "https://www.donga.com/news/article/all/20260920/134705009/2",
+              "summary": ""
+            },
+            {
+              "title": "삼성전자 “인공지능 전환 이끄는 선도기업 도약”",
+              "url": "https://www.donga.com/news/article/all/20260920/134705004/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "B4",
+          "label": "B4",
+          "edition": "B",
+          "number": 4,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "‘반도체’ 근로자, 月 943만원 벌었다… 성과급에 월급도 초격차",
+              "url": "https://www.donga.com/news/article/all/20260920/134705350/2",
+              "summary": ""
+            },
+            {
+              "title": "올 가을 ‘기묘한 롯데월드’로 오세요",
+              "url": "https://www.donga.com/news/article/all/20260920/134705349/2",
+              "summary": ""
+            },
+            {
+              "title": "‘최고가격제’에 기름값 18주째 하락세… 소송 검토하는 정유업계",
+              "url": "https://www.donga.com/news/article/all/20260920/134705337/2",
+              "summary": ""
+            },
+            {
+              "title": "카타르서도 ‘한우’ 맛본다… 내달 첫 수출길",
+              "url": "https://www.donga.com/news/article/all/20260920/134705347/2",
+              "summary": ""
+            },
+            {
+              "title": "호텔신라, 내달 하노이에 ‘신라모노그램’ 오픈",
+              "url": "https://www.donga.com/news/article/all/20260920/134705339/2",
+              "summary": ""
+            },
+            {
+              "title": "SOVAC, 기업-기관 228곳과 ‘지역의 미래’ 논의",
+              "url": "https://www.donga.com/news/article/all/20260920/134705345/2",
+              "summary": ""
+            },
+            {
+              "title": "KTX 등 열차표, 내달부터 출발 두달 전 예매 가능",
+              "url": "https://www.donga.com/news/article/all/20260920/134705343/2",
+              "summary": ""
+            },
+            {
+              "title": "삼성물산, 1.8조원 성수3지구 재개발 시공사 선정",
+              "url": "https://www.donga.com/news/article/all/20260920/134705341/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "B5",
+          "label": "B5",
+          "edition": "B",
+          "number": 5,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[Tech&]혼수 가전부터 신혼여행, 청첩장까지 한 번에!… 삼성전자가 제안하는 맞춤형 웨딩 솔루션",
+              "url": "https://www.donga.com/news/article/all/20260920/134680004/1",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "B6",
+          "label": "B6",
+          "edition": "B",
+          "number": 6,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“중성미자 연구 中-日이 주도, 한국 골든타임 2년 남았다”",
+              "url": "https://www.donga.com/news/article/all/20260920/134703485/2",
+              "summary": ""
+            },
+            {
+              "title": "100살 된 전자 ‘스핀’… 반도체 넘어 우주 비밀 푼다",
+              "url": "https://www.donga.com/news/article/all/20260920/134703476/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "B7",
+          "label": "B7",
+          "edition": "B",
+          "number": 7,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[DBR/알립니다]전사 AX 과제 진단 ‘AI Blueprint’ 도입 기업 모집",
+              "url": "https://www.donga.com/news/article/all/20260920/134697719/2",
+              "summary": ""
+            },
+            {
+              "title": "[DBR]AI 발전할수록 ‘날것’에 감동, ‘인간의 흔적’ 설계해야",
+              "url": "https://www.donga.com/news/article/all/20260920/134697725/2",
+              "summary": ""
+            },
+            {
+              "title": "[DBR]AI 챗봇의 사과, 사람 이미지- 공감 말투 쓰면 효과적",
+              "url": "https://www.donga.com/news/article/all/20260920/134697728/2",
+              "summary": ""
+            },
+            {
+              "title": "[DBR]후불제 자본주의, 책임 주체는?",
+              "url": "https://www.donga.com/news/article/all/20260920/134697717/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "B8",
+          "label": "B8",
+          "edition": "B",
+          "number": 8,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "1일치 결제하기",
+              "url": "https://www.donga.com",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "C1",
+          "label": "C1",
+          "edition": "C",
+          "number": 1,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "영화-K팝-게임… 젊은 팬 있는 곳에 ‘신라면’이 있다",
+              "url": "https://www.donga.com/news/article/all/20260919/134697703/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "C2",
+          "label": "C2",
+          "edition": "C",
+          "number": 2,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "버거와 만난 ‘K고추장’… ‘고추장 버터’ 소스로 아시아 공략",
+              "url": "https://www.donga.com/news/article/all/20260919/134697740/2",
+              "summary": ""
+            },
+            {
+              "title": "특등급 햇 서리태 껍질째 갈았다… 상하목장 ‘두유 첫 도전’",
+              "url": "https://www.donga.com/news/article/all/20260919/134697734/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "C3",
+          "label": "C3",
+          "edition": "C",
+          "number": 3,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "바닐라향 더하고 라벨 덜고… RTD 커피 대표 ‘맥심 티오피’ 변신",
+              "url": "https://www.donga.com/news/article/all/20260919/134697751/2",
+              "summary": ""
+            },
+            {
+              "title": "60년 장수빵의 MZ세대 공략… 3.2mm 크래커 ‘정통크림빵 씬샌드’ 출시",
+              "url": "https://www.donga.com/news/article/all/20260919/134697756/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "C4",
+          "label": "C4",
+          "edition": "C",
+          "number": 4,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "한국에 오면 사가던 ‘비쵸비’… 이젠 미국-일본에서 직접 산다",
+              "url": "https://www.donga.com/news/article/all/20260919/134697175/2",
+              "summary": ""
+            },
+            {
+              "title": "상반기엔 ‘Fun’ 하반기엔 ‘원조’… 롯데리아의 두 맛 전략 승부수",
+              "url": "https://www.donga.com/news/article/all/20260919/134697172/2",
+              "summary": ""
+            },
+            {
+              "title": "청담동 핫플의 맛, 집에서 즐긴다… 한우 전문 ‘우정’ 협업 간편식 인기",
+              "url": "https://www.donga.com/news/article/all/20260919/134697165/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "C5",
+          "label": "C5",
+          "edition": "C",
+          "number": 5,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "애슐리 ‘확장 마법’… 매장 75%-메뉴 30% 늘리자 매출 153% 뛰었다",
+              "url": "https://www.donga.com/news/article/all/20260919/134697195/2",
+              "summary": ""
+            },
+            {
+              "title": "“수거하셨습니다, 수고하셨습니다”… ‘재생 페트’ 입은 국민 사이다",
+              "url": "https://www.donga.com/news/article/all/20260919/134697186/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "C6",
+          "label": "C6",
+          "edition": "C",
+          "number": 6,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "‘맛있는 생맥주’ 스텔라 교육 매장 83% 늘어",
+              "url": "https://www.donga.com/news/article/all/20260919/134697284/2",
+              "summary": ""
+            },
+            {
+              "title": "MZ 겨냥 ‘일품진로 하이볼 세트’ 한정 출시",
+              "url": "https://www.donga.com/news/article/all/20260919/134697277/2",
+              "summary": ""
+            },
+            {
+              "title": "“유기농이 곧 품질”… 세계 와인시장 기준 바꾼 칠레 ‘에밀리아나’",
+              "url": "https://www.donga.com/news/article/all/20260919/134697292/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "C7",
+          "label": "C7",
+          "edition": "C",
+          "number": 7,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "참치 한 캔에 단백질 30g… 추석에 ‘고단백 선물’",
+              "url": "https://www.donga.com/news/article/all/20260919/134697399/2",
+              "summary": ""
+            },
+            {
+              "title": "잡채 9분, 전은 데우기만… ‘명절 노동’ 탈출한다",
+              "url": "https://www.donga.com/news/article/all/20260919/134697392/2",
+              "summary": ""
+            },
+            {
+              "title": "명절 선물도 이제 PB 시대, 고물가 뚫는 ‘오늘좋은’ 선물세트 첫선",
+              "url": "https://www.donga.com/news/article/all/20260919/134697385/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "C8",
+          "label": "C8",
+          "edition": "C",
+          "number": 8,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "부모님 드릴 녹용, 등급까지 따진다… 추석 ‘건강선물’ 고급화",
+              "url": "https://www.donga.com/news/article/all/20260919/134697929/2",
+              "summary": ""
+            },
+            {
+              "title": "대구 군위 사과가 몽쉘-꼬깔콘에 쏙쏙… 과자-빵 15종 나왔다",
+              "url": "https://www.donga.com/news/article/all/20260919/134697925/2",
+              "summary": ""
+            }
+          ]
+        }
+      ],
+      "message": ""
     },
     {
       "id": "mk",
@@ -334,7 +1282,7 @@
           "section": "지면",
           "articles": [
             {
-              "title": "제조업 강한 한국에 '날개'… 피지컬 AI 특허, 美·中 이어 3위 고재원,최원석 기자 매경-렉시스넥시스 분석 글로벌 피지컬 AI 지형도 생성형AI 경쟁 한발 늦었지만 피지컬 AI '풀스택 가치사슬' 자국 내에 갖춘 유일한 국가 AI 지능·실물 제어 등 강점 리벨리온 등 中企 IP도 탄탄 전국 제조업 현장서 효과 입증",
+              "title": "제조업 강한 한국에 '날개'… 피지컬 AI 특허, 美·中 이어 3위 고재원,최원석 기자 매경-렉시스넥시스 분석 … 글로벌 피지컬 AI 지형도 생성형AI 경쟁 한발 늦었지만 피지컬 AI '풀스택 가치사슬' 자국 내에 갖춘 유일한 국가 AI 지능·실물 제어 등 강점 리벨리온 등 中企 IP도 탄탄 전국 제조업 현장서 효과 입증",
               "url": "https://www.mk.co.kr/news/it/12157568",
               "summary": ""
             },
@@ -776,8 +1724,8 @@
               "summary": ""
             },
             {
-              "title": "5 \"개발속도 함께 늦추는건 담합\" … 美 AI기업 4곳 고소당했다",
-              "url": "https://www.mk.co.kr/news/it/12157576",
+              "title": "5 \"대형화가 살길\"… LCC 4강 재편 속도",
+              "url": "https://www.mk.co.kr/news/business/12157531",
               "summary": ""
             },
             {
@@ -887,8 +1835,8 @@
               "summary": ""
             },
             {
-              "title": "5 \"개발속도 함께 늦추는건 담합\" … 美 AI기업 4곳 고소당했다",
-              "url": "https://www.mk.co.kr/news/it/12157576",
+              "title": "5 \"대형화가 살길\"… LCC 4강 재편 속도",
+              "url": "https://www.mk.co.kr/news/business/12157531",
               "summary": ""
             },
             {
@@ -989,8 +1937,8 @@
               "summary": ""
             },
             {
-              "title": "5 \"개발속도 함께 늦추는건 담합\" … 美 AI기업 4곳 고소당했다",
-              "url": "https://www.mk.co.kr/news/it/12157576",
+              "title": "5 \"대형화가 살길\"… LCC 4강 재편 속도",
+              "url": "https://www.mk.co.kr/news/business/12157531",
               "summary": ""
             },
             {

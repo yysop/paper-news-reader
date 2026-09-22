@@ -1,14 +1,520 @@
 {
-  "generated_at": "2026-09-21T09:27:03.836044+09:00",
+  "generated_at": "2026-09-22T10:03:33.758371+09:00",
   "papers": [
     {
       "id": "donga",
       "name": "동아일보",
       "date": "2026-09-19",
-      "status": "수집 오류: ConnectTimeout",
-      "source": "https://www.donga.com/news/Pdf",
-      "pages": [],
-      "message": "자동 수집 중 오류가 발생했습니다."
+      "status": "자동 수집 완료",
+      "source": "https://www.donga.com/news/Pdf?ymd=20260919",
+      "pages": [
+        {
+          "key": "A1",
+          "label": "A1",
+          "edition": "A",
+          "number": 1,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "李 “연임할 생각 전혀 없다, 헌법상 불가능”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699732/2",
+              "summary": ""
+            },
+            {
+              "title": "추석연휴 고속道 기름값 리터당 100원씩 내린다",
+              "url": "https://www.donga.com/news/article/all/20260919/134699723/2",
+              "summary": ""
+            },
+            {
+              "title": "‘김현지 감찰’ 선그은 최길수 특감후보자 “靑수석급 이상만 대상”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699721/2",
+              "summary": ""
+            },
+            {
+              "title": "‘딥러닝 노벨상’ 힌턴 “AI 통제 남은시간 1년”",
+              "url": "https://www.donga.com/news/article/all/20260918/134699757/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A2",
+          "label": "A2",
+          "edition": "A",
+          "number": 2,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“집값 안정, 이 정부는 할것… 강남 내리고 외곽 오르는 평탄화 중”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699715/2",
+              "summary": ""
+            },
+            {
+              "title": "“레버리지 ETF, 어떻게 결정됐는지 세부내용 파악 못해”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699711/2",
+              "summary": ""
+            },
+            {
+              "title": "농지 전수조사 반발엔 “투기 가려내겠다는 것”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699713/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A3",
+          "label": "A3",
+          "edition": "A",
+          "number": 3,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“특검법에 공소취소 조항 빼고, 조작기소 진상규명 집중해달라”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699661/2",
+              "summary": ""
+            },
+            {
+              "title": "몸낮춘 李 “갑작스러운 국민 실망에 당황… 제 부족함 때문”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699658/2",
+              "summary": ""
+            },
+            {
+              "title": "김승원 임명 여부에… 李 “아직 결론 못 내려, 국민 눈높이 등 고려”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699656/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A4",
+          "label": "A4",
+          "edition": "A",
+          "number": 4,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“우리 모두 친문-친노-친DJ, 이재명의 동지” 진영 결집 호소",
+              "url": "https://www.donga.com/news/article/all/20260919/134699700/2",
+              "summary": ""
+            },
+            {
+              "title": "“檢개혁 후퇴 의심 거둬달라, 수사 관여 불가역적 차단”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699696/2",
+              "summary": ""
+            },
+            {
+              "title": "민주 “국민 신뢰 회복하는 국정 전환점”… 국힘 “자화자찬-남탓만 남은 맹탕 회견”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699698/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A5",
+          "label": "A5",
+          "edition": "A",
+          "number": 5,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“전쟁 파병은 없다, 국민 생명-안전 보호 최소한 활동은 할것”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699706/2",
+              "summary": ""
+            },
+            {
+              "title": "“북미 대화 사전 조정작업 계속하고 있어”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699704/2",
+              "summary": ""
+            },
+            {
+              "title": "스틸 美대사 “한미동맹, 전쟁 속에서 다져져”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699702/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A6",
+          "label": "A6",
+          "edition": "A",
+          "number": 6,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "野 “김현지, 인사 관여했다면 감찰 대상”… 與 “尹정부도 감찰해야”",
+              "url": "https://www.donga.com/news/article/all/20260919/134699879/2",
+              "summary": ""
+            },
+            {
+              "title": "김민석, ‘추미애 21억 컨설팅’ 당차원 검토 가능성 언급",
+              "url": "https://www.donga.com/news/article/all/20260919/134699877/2",
+              "summary": ""
+            },
+            {
+              "title": "국힘-이준석, 부동산 연대 시동… ‘수도권 주거 포럼’ 30일 창립",
+              "url": "https://www.donga.com/news/article/all/20260919/134699874/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A8",
+          "label": "A8",
+          "edition": "A",
+          "number": 8,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "추석 앞두고 채소값 15% 급등… “차례상 음식 줄여야 하나” 한숨",
+              "url": "https://www.donga.com/news/article/all/20260919/134699682/2",
+              "summary": ""
+            },
+            {
+              "title": "실전 같은 예비군 훈련… 시가전 가상영상 띄우고 사격",
+              "url": "https://www.donga.com/news/article/all/20260919/134699680/2",
+              "summary": ""
+            },
+            {
+              "title": "수험생 연대 “수시 추가접수 취소” 오늘 국회 앞 집회",
+              "url": "https://www.donga.com/news/article/all/20260919/134699675/2",
+              "summary": ""
+            },
+            {
+              "title": "경찰의 수사정보 유출-무단조회 느는데… 감찰 147건중 118건 징계 없이 끝났다",
+              "url": "https://www.donga.com/news/article/all/20260919/134699671/2",
+              "summary": ""
+            },
+            {
+              "title": "‘선거법 위반’ 與 정준호 1심 벌금 1000만원 당선무효형",
+              "url": "https://www.donga.com/news/article/all/20260919/134699673/2",
+              "summary": ""
+            },
+            {
+              "title": "법원, ‘포스코 하청노조 개별교섭’ 중노위 결정에 제동",
+              "url": "https://www.donga.com/news/article/all/20260919/134699669/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A10",
+          "label": "A10",
+          "edition": "A",
+          "number": 10,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "북한산 까짓것? 설악산보다 사고 많다… 물-보조배터리 필수",
+              "url": "https://www.donga.com/news/article/all/20260919/134698872/2",
+              "summary": ""
+            },
+            {
+              "title": "“산에서 길 잃었다면 움직이지 말고 즉시 119 신고를”",
+              "url": "https://www.donga.com/news/article/all/20260919/134698866/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A12",
+          "label": "A12",
+          "edition": "A",
+          "number": 12,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "거실 넓히고 층수 올리고… 재건축보다 빠르게 주거 환경 바꾼다",
+              "url": "https://www.donga.com/news/article/all/20260919/134699881/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A14",
+          "label": "A14",
+          "edition": "A",
+          "number": 14,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "AG 극장, 태극전사의 명품 드라마가 시작됩니다",
+              "url": "https://www.donga.com/news/article/all/20260919/134699688/2",
+              "summary": ""
+            },
+            {
+              "title": "이현중 “림이 1.3배로 커보여”… 한국 男농구 12년만에 결승 진출",
+              "url": "https://www.donga.com/news/article/all/20260919/134699686/2",
+              "summary": ""
+            },
+            {
+              "title": "여자 배구 조1위로 8강행",
+              "url": "https://www.donga.com/news/article/all/20260919/134699684/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A16",
+          "label": "A16",
+          "edition": "A",
+          "number": 16,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[책의 향기]“음지의 장기매매를 양지로” 경제학의 고민",
+              "url": "https://www.donga.com/news/article/all/20260918/134698625/2",
+              "summary": ""
+            },
+            {
+              "title": "[그림책 한조각]배탈",
+              "url": "https://www.donga.com/news/article/all/20260918/134698608/2",
+              "summary": ""
+            },
+            {
+              "title": "고조선에서 브라질로 콩 한 알에 담긴 역사[곽재식의 안드로메다 서점]",
+              "url": "https://www.donga.com/news/article/all/20260918/134698600/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]벼농사는 관계, 밀농사는 독립을 키웠다",
+              "url": "https://www.donga.com/news/article/all/20260918/134698583/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]지구 생명체 중 인간만 고립돼 간다",
+              "url": "https://www.donga.com/news/article/all/20260918/134698620/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A17",
+          "label": "A17",
+          "edition": "A",
+          "number": 17,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[책의 향기/밑줄 긋기]잃기일지",
+              "url": "https://www.donga.com/news/article/all/20260918/134698657/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]43층의 ‘富적응자’… 가난했던 나를 벗어나지 못한다",
+              "url": "https://www.donga.com/news/article/all/20260918/134698639/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]역사를 바꾸는 건 사람? 시대?… 정답은 둘의 ‘타이밍’",
+              "url": "https://www.donga.com/news/article/all/20260918/134698645/2",
+              "summary": ""
+            },
+            {
+              "title": "[어린이 책]콩 통조림만 알던 나… 새로운 맛에 눈뜨다",
+              "url": "https://www.donga.com/news/article/all/20260918/134698637/2",
+              "summary": ""
+            },
+            {
+              "title": "[새로 나왔어요]녹색 절벽의 신사들 外",
+              "url": "https://www.donga.com/news/article/all/20260918/134698633/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]강백호 자유투엔 유체역학이 숨어있다",
+              "url": "https://www.donga.com/news/article/all/20260918/134698649/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A19",
+          "label": "A19",
+          "edition": "A",
+          "number": 19,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“기술은 있지만 사업화 모르는 전문직, 이들의 창업이 쉬워야 富國”[허진석의 톡톡 스타트업]",
+              "url": "https://www.donga.com/news/article/all/20260919/134698289/2",
+              "summary": ""
+            },
+            {
+              "title": "[오늘의 운세/9월19일]",
+              "url": "https://www.donga.com/news/article/all/20260919/134698345/2",
+              "summary": ""
+            },
+            {
+              "title": "[오늘의 운세/9월20일]",
+              "url": "https://www.donga.com/news/article/all/20260919/134698329/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A21",
+          "label": "A21",
+          "edition": "A",
+          "number": 21,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[오늘의 채널A]인도네시아 정글부족 생활 체험",
+              "url": "https://www.donga.com/news/article/all/20260918/134699066/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A22",
+          "label": "A22",
+          "edition": "A",
+          "number": 22,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“인플레 시대 투자는 브라질 달러채-金 등 실물자산”[은퇴 레시피]",
+              "url": "https://www.donga.com/news/article/all/20260918/134698943/2",
+              "summary": ""
+            },
+            {
+              "title": "[지표로 보는 경제]9월 19일",
+              "url": "https://www.donga.com/news/article/all/20260918/134698925/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A24",
+          "label": "A24",
+          "edition": "A",
+          "number": 24,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "서울 닮은 세종시… 금강 따라 달리며 맛보는 왕의 밥상[전승훈 기자의 아트로드]",
+              "url": "https://www.donga.com/news/article/all/20260918/134698358/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A25",
+          "label": "A25",
+          "edition": "A",
+          "number": 25,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "‘딥러닝 노벨상’ 힌턴 “AI 통제 남은시간 1년”",
+              "url": "https://www.donga.com/news/article/all/20260918/134699757/2",
+              "summary": ""
+            },
+            {
+              "title": "워런 버핏, 버크셔 회장직 사퇴… “명예회장으로 새 역할 맡을것”",
+              "url": "https://www.donga.com/news/article/all/20260918/134699773/2",
+              "summary": ""
+            },
+            {
+              "title": "“오픈AI, 챗GPT 개발에 기사 1000만건 무단 사용”",
+              "url": "https://www.donga.com/news/article/all/20260918/134699755/2",
+              "summary": ""
+            },
+            {
+              "title": "[인사]공관장 外",
+              "url": "https://www.donga.com/news/article/all/20260918/134699768/2",
+              "summary": ""
+            },
+            {
+              "title": "희망브리지, 7월 호우 피해 177가구에 성금 3억6500만원",
+              "url": "https://www.donga.com/news/article/all/20260918/134699759/2",
+              "summary": ""
+            },
+            {
+              "title": "[부고]권해조 별세 外",
+              "url": "https://www.donga.com/news/article/all/20260918/134699770/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A26",
+          "label": "A26",
+          "edition": "A",
+          "number": 26,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[광화문에서/강경석]후보자 검증 외에 쓴 157분… 청문회 의사진행발언 없애라",
+              "url": "https://www.donga.com/news/article/all/20260918/134699619/2",
+              "summary": ""
+            },
+            {
+              "title": "[동아광장/이은주]돌에게 말을 거는 사람들",
+              "url": "https://www.donga.com/news/article/all/20260918/134699617/2",
+              "summary": ""
+            },
+            {
+              "title": "[횡설수설/장원재]종로3가",
+              "url": "https://www.donga.com/news/article/all/20260918/134699613/2",
+              "summary": ""
+            },
+            {
+              "title": "[고양이 눈]작품명 ‘이끼’",
+              "url": "https://www.donga.com/news/article/all/20260918/134699615/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A27",
+          "label": "A27",
+          "edition": "A",
+          "number": 27,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[오늘과 내일/김준일]그럴 바엔 갈라서는 게 어떨까",
+              "url": "https://www.donga.com/news/article/all/20260918/134699631/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]李 “전쟁 개입 파병은 없다”… 조율 위한 외교 공간부터 확보를",
+              "url": "https://www.donga.com/news/article/all/20260918/134699625/2",
+              "summary": ""
+            },
+            {
+              "title": "사람의 밥[박연준의 토요일은 시가 좋아]〈60〉",
+              "url": "https://www.donga.com/news/article/all/20260918/134699623/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]“과정 세심하지 못해”… 부동산 정책은 ‘디테일’이 관건",
+              "url": "https://www.donga.com/news/article/all/20260918/134699629/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]“내 책임 가장 커” “국민은 늘 옳다”… 항상 스스로 채찍질해야",
+              "url": "https://www.donga.com/news/article/all/20260918/134699627/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A28",
+          "label": "A28",
+          "edition": "A",
+          "number": 28,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "동아일보 발행정보",
+              "url": "https://www.donga.com/news/Pdf?mode=2",
+              "summary": ""
+            }
+          ]
+        }
+      ],
+      "message": ""
     },
     {
       "id": "mk",
