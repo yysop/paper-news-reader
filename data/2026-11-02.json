@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T10:43:08.669668+09:00",
+  "generated_at": "2026-11-03T12:39:10.476273+09:00",
   "papers": [
     {
       "id": "donga",
@@ -765,6 +765,20 @@
           ]
         },
         {
+          "key": "C3",
+          "label": "C3",
+          "edition": "C",
+          "number": 3,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "‘탑텐 대구 동성로점’ 로컬 콘텐츠 전략 눈길…“옷을 고르는 공간에 지역의 일상을 더하다”",
+              "url": "https://www.donga.com/news/article/all/20261102/134949429/1",
+              "summary": ""
+            }
+          ]
+        },
+        {
           "key": "C4",
           "label": "C4",
           "edition": "C",
@@ -1513,8 +1527,8 @@
               "summary": ""
             },
             {
-              "title": "1 25조 '제2 월급'의 배신 … 코스피보다 못한 커버드콜ETF",
-              "url": "https://www.mk.co.kr/news/stock/12192880",
+              "title": "1 우리은행, 적금 최고 연 13% '추첨'…월 최대 50만원까지 납입",
+              "url": "https://www.mk.co.kr/news/special-edition/12192750",
               "summary": ""
             },
             {
@@ -1523,8 +1537,8 @@
               "summary": ""
             },
             {
-              "title": "3 우리은행, 적금 최고 연 13% '추첨'…월 최대 50만원까지 납입",
-              "url": "https://www.mk.co.kr/news/special-edition/12192750",
+              "title": "3 25조 '제2 월급'의 배신 … 코스피보다 못한 커버드콜ETF",
+              "url": "https://www.mk.co.kr/news/stock/12192880",
               "summary": ""
             },
             {
@@ -1673,8 +1687,8 @@
               "summary": ""
             },
             {
-              "title": "1 25조 '제2 월급'의 배신 … 코스피보다 못한 커버드콜ETF",
-              "url": "https://www.mk.co.kr/news/stock/12192880",
+              "title": "1 우리은행, 적금 최고 연 13% '추첨'…월 최대 50만원까지 납입",
+              "url": "https://www.mk.co.kr/news/special-edition/12192750",
               "summary": ""
             },
             {
@@ -1683,8 +1697,8 @@
               "summary": ""
             },
             {
-              "title": "3 우리은행, 적금 최고 연 13% '추첨'…월 최대 50만원까지 납입",
-              "url": "https://www.mk.co.kr/news/special-edition/12192750",
+              "title": "3 25조 '제2 월급'의 배신 … 코스피보다 못한 커버드콜ETF",
+              "url": "https://www.mk.co.kr/news/stock/12192880",
               "summary": ""
             },
             {
