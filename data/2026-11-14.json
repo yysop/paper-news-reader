@@ -1,14 +1,530 @@
 {
-  "generated_at": "2026-11-17T13:44:17.837036+09:00",
+  "generated_at": "2026-11-18T12:48:35.998067+09:00",
   "papers": [
     {
       "id": "donga",
       "name": "동아일보",
       "date": "2026-11-14",
-      "status": "수집 오류: ConnectionError",
-      "source": "https://www.donga.com/news/Pdf",
-      "pages": [],
-      "message": "자동 수집 중 오류가 발생했습니다."
+      "status": "자동 수집 완료",
+      "source": "https://www.donga.com/news/Pdf?ymd=20261114",
+      "pages": [
+        {
+          "key": "A1",
+          "label": "A1",
+          "edition": "A",
+          "number": 1,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "트럼프 향하는 ‘젠슨 황 스캔들’… 의회, 러트닉 조사",
+              "url": "https://www.donga.com/news/article/all/20261114/135023349/2",
+              "summary": ""
+            },
+            {
+              "title": "2위팀 삼성의 뒤집기 우승… ‘부자=챔프’ 공식도 뒤집다",
+              "url": "https://www.donga.com/news/article/all/20261113/135022468/2",
+              "summary": ""
+            },
+            {
+              "title": "APEC 닷새 앞 방중 조현 “북미회담 가능성 있다”",
+              "url": "https://www.donga.com/news/article/all/20261113/135023336/2",
+              "summary": ""
+            },
+            {
+              "title": "‘쌈짓돈’ 논란 미래기금… 국회 “25조 늘려 달라”",
+              "url": "https://www.donga.com/news/article/all/20261113/135023338/2",
+              "summary": ""
+            },
+            {
+              "title": "李 “골 깊으면 산 높을것” 증시 정상화 개혁기구 지시",
+              "url": "https://www.donga.com/news/article/all/20261113/135023334/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A2",
+          "label": "A2",
+          "edition": "A",
+          "number": 2,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“앨리스 황 가족기업, 딥시크-화웨이와 얽혀… 中 ‘AI 굴기’ 지원”",
+              "url": "https://www.donga.com/news/article/all/20261113/135023332/2",
+              "summary": ""
+            },
+            {
+              "title": "美의회 ‘對中 칩 규제 3법’ 가속… 국내기업 中공장 불똥 우려",
+              "url": "https://www.donga.com/news/article/all/20261113/135023330/2",
+              "summary": ""
+            },
+            {
+              "title": "‘젠슨 황’ 불확실성에… 코스피 1% 하락 마감",
+              "url": "https://www.donga.com/news/article/all/20261113/135023326/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A3",
+          "label": "A3",
+          "edition": "A",
+          "number": 3,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "AI칩 對中수출 승인 책임론 확산… 러트닉 이어 트럼프 겨냥",
+              "url": "https://www.donga.com/news/article/all/20261113/135023179/2",
+              "summary": ""
+            },
+            {
+              "title": "“난 인간 쓰레기” 사임 직전 불륜 파문 자책한 젠슨 황",
+              "url": "https://www.donga.com/news/article/all/20261113/135023181/2",
+              "summary": ""
+            },
+            {
+              "title": "젠슨 황 후임, ‘재무통’ 크레스 vs ‘기술통’ 벅 거론",
+              "url": "https://www.donga.com/news/article/all/20261113/135023173/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A4",
+          "label": "A4",
+          "edition": "A",
+          "number": 4,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "‘쌈짓돈’ 논란 미래기금… 국회 “25조 늘려 달라”",
+              "url": "https://www.donga.com/news/article/all/20261113/135023338/2",
+              "summary": ""
+            },
+            {
+              "title": "“최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상",
+              "url": "https://www.donga.com/news/article/all/20261113/135023171/2",
+              "summary": ""
+            },
+            {
+              "title": "조희대 탄핵 다시 꺼내드는 민주당",
+              "url": "https://www.donga.com/news/article/all/20261113/135023166/2",
+              "summary": ""
+            },
+            {
+              "title": "李대통령 국정지지율 긍정 39%, 부정 50%",
+              "url": "https://www.donga.com/news/article/all/20261113/135023161/2",
+              "summary": ""
+            },
+            {
+              "title": "친한계 “조작 징계는 무효, 진상조사해야”… 국힘 지도부 “정말 나쁜 저급한 정치공작”",
+              "url": "https://www.donga.com/news/article/all/20261113/135023164/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A5",
+          "label": "A5",
+          "edition": "A",
+          "number": 5,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "APEC 닷새 앞 방중 조현 “북미회담 가능성 있다”",
+              "url": "https://www.donga.com/news/article/all/20261113/135023336/2",
+              "summary": ""
+            },
+            {
+              "title": "이란, 청해부대 겨냥 “뱁새가 황새 따라가면…” 한국어 경고",
+              "url": "https://www.donga.com/news/article/all/20261113/135023321/2",
+              "summary": ""
+            },
+            {
+              "title": "“트럼프 행정부, 주일미군 분담금 3배 인상 요구”",
+              "url": "https://www.donga.com/news/article/all/20261113/135023319/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A6",
+          "label": "A6",
+          "edition": "A",
+          "number": 6,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "李 “골 깊으면 산 높을것” 증시 정상화 개혁기구 지시",
+              "url": "https://www.donga.com/news/article/all/20261113/135023334/2",
+              "summary": ""
+            },
+            {
+              "title": "잠자는 카드 포인트, 내년 5월부터 지역화폐로 전환 가능",
+              "url": "https://www.donga.com/news/article/all/20261113/135023116/2",
+              "summary": ""
+            },
+            {
+              "title": "삼성메디슨, 500억 투자 초음파 진단기 공장 증설",
+              "url": "https://www.donga.com/news/article/all/20261113/135023110/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A8",
+          "label": "A8",
+          "edition": "A",
+          "number": 8,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "軍-공기관 사칭 노쇼 사기 기승… 피해액 84% 급증 1354억",
+              "url": "https://www.donga.com/news/article/all/20261113/135023047/2",
+              "summary": ""
+            },
+            {
+              "title": "가을에 물든 남산",
+              "url": "https://www.donga.com/news/article/all/20261113/135023044/2",
+              "summary": ""
+            },
+            {
+              "title": "MS 글로벌 서비스 ‘먹통’… 국내 기업-대학도 업무 차질",
+              "url": "https://www.donga.com/news/article/all/20261113/135023042/2",
+              "summary": ""
+            },
+            {
+              "title": "중기부 ‘모두의 창업’ 2기 사업도 개인정보 유출",
+              "url": "https://www.donga.com/news/article/all/20261113/135023040/2",
+              "summary": ""
+            },
+            {
+              "title": "경찰, ‘부정청약’ 이혜훈 80억 반포 원펜타스 몰수 신청",
+              "url": "https://www.donga.com/news/article/all/20261113/135023038/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A10",
+          "label": "A10",
+          "edition": "A",
+          "number": 10,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "스타링크 1만기 통신위성의 힘… 비행기 안에서 OTT까지 본다",
+              "url": "https://www.donga.com/news/article/all/20261113/135022395/2",
+              "summary": ""
+            },
+            {
+              "title": "위성 기술 자립화는 성공… ‘비용 낮추기’가 관건",
+              "url": "https://www.donga.com/news/article/all/20261113/135022390/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A12",
+          "label": "A12",
+          "edition": "A",
+          "number": 12,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "2위팀 삼성의 뒤집기 우승… ‘부자=챔프’ 공식도 뒤집다",
+              "url": "https://www.donga.com/news/article/all/20261113/135022468/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A14",
+          "label": "A14",
+          "edition": "A",
+          "number": 14,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "밑바닥부터 다시 도전한 前 세계1위… 시드전 59위 그쳐 국내 복귀 물거품",
+              "url": "https://www.donga.com/news/article/all/20261114/135023019/2",
+              "summary": ""
+            },
+            {
+              "title": "컵스 크로암스트롱, 오타니의 MVP 3연패 저지",
+              "url": "https://www.donga.com/news/article/all/20261114/135023014/2",
+              "summary": ""
+            },
+            {
+              "title": "암 투병 모친 덕분 농구판 돌아온 아들… 커리 공백 메우며 NBA 신인왕 후보로",
+              "url": "https://www.donga.com/news/article/all/20261114/135023016/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A16",
+          "label": "A16",
+          "edition": "A",
+          "number": 16,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[책의 향기]AI시대 살길은 평생 학습하는 ‘호모 디스켄스’",
+              "url": "https://www.donga.com/news/article/all/20261113/135022439/2",
+              "summary": ""
+            },
+            {
+              "title": "[그림책 한조각]다행히도",
+              "url": "https://www.donga.com/news/article/all/20261113/135022431/2",
+              "summary": ""
+            },
+            {
+              "title": "주식 손실의 이유, 숫자는 알고있다[곽재식의 안드로메다 서점]",
+              "url": "https://www.donga.com/news/article/all/20261113/135022436/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]앞뒤 안 맞는 고백… 기억을 믿을수 있나",
+              "url": "https://www.donga.com/news/article/all/20261113/135022429/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]치매가 해방시켜준 ‘엄마’라는 굴레",
+              "url": "https://www.donga.com/news/article/all/20261113/135022422/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A17",
+          "label": "A17",
+          "edition": "A",
+          "number": 17,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[책의 향기/밑줄 긋기]헤어진 별들은 어디로 가는 걸까",
+              "url": "https://www.donga.com/news/article/all/20261113/135022465/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]빨간 마스크 괴담 뒤에는 ‘불안한 사회’",
+              "url": "https://www.donga.com/news/article/all/20261113/135022449/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]엄마 앗아간 이민 청년, 용서 못해도 이해하려 했다",
+              "url": "https://www.donga.com/news/article/all/20261113/135022453/2",
+              "summary": ""
+            },
+            {
+              "title": "[어린이 책]70년 전 어린이들도 궁금한 게 많았구나",
+              "url": "https://www.donga.com/news/article/all/20261113/135022447/2",
+              "summary": ""
+            },
+            {
+              "title": "[새로 나왔어요]불순한 건축 外",
+              "url": "https://www.donga.com/news/article/all/20261113/135022445/2",
+              "summary": ""
+            },
+            {
+              "title": "[책의 향기]토성은 왜 土星?… 80대 법조인이 본 우주",
+              "url": "https://www.donga.com/news/article/all/20261113/135022457/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A19",
+          "label": "A19",
+          "edition": "A",
+          "number": 19,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“건강할 때 미리 준비하자”… 사후 가족분쟁 막는 안전판 ‘유언’[은퇴 레시피]",
+              "url": "https://www.donga.com/news/article/all/20261114/135022556/2",
+              "summary": ""
+            },
+            {
+              "title": "[오늘의 운세/11월 14일]",
+              "url": "https://www.donga.com/news/article/all/20261113/135022560/2",
+              "summary": ""
+            },
+            {
+              "title": "[오늘의 운세/11월 15일]",
+              "url": "https://www.donga.com/news/article/all/20261113/135022558/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A21",
+          "label": "A21",
+          "edition": "A",
+          "number": 21,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[오늘의 채널A]비쿠냐 털 깎는 페루 축제 탐방",
+              "url": "https://www.donga.com/news/article/all/20261113/135022701/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A22",
+          "label": "A22",
+          "edition": "A",
+          "number": 22,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "“로봇이 집도하는 완전자율수술 시대 눈앞”",
+              "url": "https://www.donga.com/news/article/all/20261113/135022566/2",
+              "summary": ""
+            },
+            {
+              "title": "[지표로 보는 경제]11월 14일",
+              "url": "https://www.donga.com/news/article/all/20261113/135022570/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A24",
+          "label": "A24",
+          "edition": "A",
+          "number": 24,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "안개 피어나는 메콩강변에서 새벽을 깨우는 주황빛 탁발 행렬[전승훈 기자의 아트로드]",
+              "url": "https://www.donga.com/news/article/all/20261113/135022578/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A25",
+          "label": "A25",
+          "edition": "A",
+          "number": 25,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "美-우즈벡서 잠든 독립유공자 유해 고국으로",
+              "url": "https://www.donga.com/news/article/all/20261113/135023083/2",
+              "summary": ""
+            },
+            {
+              "title": "[부고]김경구 별세 外",
+              "url": "https://www.donga.com/news/article/all/20261113/135023072/2",
+              "summary": ""
+            },
+            {
+              "title": "헤그세스, “조용히 하라” 자신 지적한 병사에 훈장",
+              "url": "https://www.donga.com/news/article/all/20261113/135023074/2",
+              "summary": ""
+            },
+            {
+              "title": "정진완 우리은행장 1년 연임",
+              "url": "https://www.donga.com/news/article/all/20261113/135023078/2",
+              "summary": ""
+            },
+            {
+              "title": "국립현대미술관장에 기혜경 교수",
+              "url": "https://www.donga.com/news/article/all/20261113/135023076/2",
+              "summary": ""
+            },
+            {
+              "title": "전태일 사진-수기 복제본 등 6875점 온라인 공개",
+              "url": "https://www.donga.com/news/article/all/20261113/135023070/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A26",
+          "label": "A26",
+          "edition": "A",
+          "number": 26,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[광화문에서/강경석]다섯 달 묵힌 선관위법 사흘 만에 끝낸 특검법",
+              "url": "https://www.donga.com/news/article/all/20261113/135022973/2",
+              "summary": ""
+            },
+            {
+              "title": "[동아시론/구정우]고독한 노년, 무너진 안전판을 복원해야",
+              "url": "https://www.donga.com/news/article/all/20261113/135022971/2",
+              "summary": ""
+            },
+            {
+              "title": "[횡설수설/우경임]146년 만의 미시시피 흑인 상원의원",
+              "url": "https://www.donga.com/news/article/all/20261113/135022969/2",
+              "summary": ""
+            },
+            {
+              "title": "[고양이 눈]변신",
+              "url": "https://www.donga.com/news/article/all/20261113/135022966/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A27",
+          "label": "A27",
+          "edition": "A",
+          "number": 27,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "[오늘과 내일/박희창]6년간 네 번 ‘준비 부족’이면 그건 핑계",
+              "url": "https://www.donga.com/news/article/all/20261113/135022987/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]젠슨 황 불명예 퇴진… ‘엔비디아 뉴노멀’ 격랑에 대비해야",
+              "url": "https://www.donga.com/news/article/all/20261113/135022980/2",
+              "summary": ""
+            },
+            {
+              "title": "세 편 썼어[박연준의 토요일은 시가 좋아]〈67〉",
+              "url": "https://www.donga.com/news/article/all/20261113/135022977/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]“국가 부채 공짜 점심 아냐… 거품 꺼질 때 관건은 재정 여력”",
+              "url": "https://www.donga.com/news/article/all/20261113/135022984/2",
+              "summary": ""
+            },
+            {
+              "title": "[사설]방한 관광객 2000만 명… 내수-지방 살리는 계기로",
+              "url": "https://www.donga.com/news/article/all/20261113/135022982/2",
+              "summary": ""
+            }
+          ]
+        },
+        {
+          "key": "A28",
+          "label": "A28",
+          "edition": "A",
+          "number": 28,
+          "section": "지면",
+          "articles": [
+            {
+              "title": "동아일보 발행정보",
+              "url": "https://www.donga.com/news/Pdf?mode=2",
+              "summary": ""
+            }
+          ]
+        }
+      ],
+      "message": ""
     },
     {
       "id": "mk",
